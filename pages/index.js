@@ -60,24 +60,24 @@ export default function Home() {
         </div>
 
         <div className="flex gap-8 items-center justify-center mb-4">
-          <a href="https://twitter.com/ImpactDAOMedia">
+          <a href="https://twitter.com/ImpactDAOMedia" targer="_blank">
             <FaTwitter size={60} className="text-blue-500"/>
           </a>
-          <a href="https://impactdaomedia.buzzsprout.com/share">
+          <a href="https://impactdaomedia.buzzsprout.com/share" targer="_blank">
             <FaPodcast size={60} className="text-purple-500" />
           </a>
-          <a href="https://cryptogood.substack.com/s/impact-daos-research">
+          <a href="https://cryptogood.substack.com/s/impact-daos-research" targer="_blank">
             <FaBookOpen size={60} className="text-green-500" />
           </a>
         </div>
 
         <div className="flex flex-col md:flex-row items-start gap-6">
-        <TwitterTweetEmbed tweetId={'1550168023968796673'}  />
-        <TwitterTweetEmbed tweetId={'1583474894821810176'}  />
-        <TwitterTweetEmbed tweetId={'1579494001153277954'}  />
-        <TwitterTweetEmbed tweetId={'1583137673174487040'}  />
-        <TwitterTweetEmbed tweetId={'1580251154461888512'}  />
-        </div>
+          <TwitterTweetEmbed tweetId={'1550168023968796673'}  />
+          <TwitterTweetEmbed tweetId={'1583474894821810176'}  />
+          <TwitterTweetEmbed tweetId={'1579494001153277954'}  />
+          <TwitterTweetEmbed tweetId={'1583137673174487040'}  />
+          <TwitterTweetEmbed tweetId={'1580251154461888512'}  />
+          </div>
 
        
       </main>
