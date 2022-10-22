@@ -60,13 +60,13 @@ export default function Home() {
         </div>
 
         <div className="flex gap-8 items-center justify-center mb-4">
-          <a href="https://twitter.com/ImpactDAOMedia" targer="_blank">
+          <a href="https://twitter.com/ImpactDAOMedia" target="_blank">
             <FaTwitter size={60} className="text-blue-500"/>
           </a>
-          <a href="https://impactdaomedia.buzzsprout.com/share" targer="_blank">
+          <a href="https://impactdaomedia.buzzsprout.com/share" target="_blank">
             <FaPodcast size={60} className="text-purple-500" />
           </a>
-          <a href="https://cryptogood.substack.com/s/impact-daos-research" targer="_blank">
+          <a href="https://cryptogood.substack.com/s/impact-daos-research" target="_blank">
             <FaBookOpen size={60} className="text-green-500" />
           </a>
         </div>
