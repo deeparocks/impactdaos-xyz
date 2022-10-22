@@ -56,7 +56,6 @@ export default function Home() {
           }
         };`}
         </Script>
-        <Script src="https://substackapi.com/widget.js" strategy="lazyOnload"></Script>
         </div>
 
         <div className="flex gap-8 items-center justify-center mb-4">
@@ -71,27 +70,34 @@ export default function Home() {
           </a>
         </div>
 
-        <div className="flex flex-col md:flex-row items-start gap-6">
-          <TwitterTweetEmbed tweetId={'1550168023968796673'}  />
-          <TwitterTweetEmbed tweetId={'1583474894821810176'}  />
-          <TwitterTweetEmbed tweetId={'1579494001153277954'}  />
-          <TwitterTweetEmbed tweetId={'1583137673174487040'}  />
-          <TwitterTweetEmbed tweetId={'1580251154461888512'}  />
-          </div>
+        <div className="flex flex-col md:flex-row items-start gap-2 overflow-scroll" >
+          {/* 1550168023968796673 */}
+          <blockquote class="twitter-tweet"><p lang="en" dir="ltr">141 donors + $8250 in matching 🎉 <a href="https://twitter.com/hashtag/GR14?src=hash&amp;ref_src=twsrc%5Etfw">#GR14</a> @gictoin we are 🙏 to our donors + promoters. we are 🙏 to <a href="https://twitter.com/gitcoin?ref_src=twsrc%5Etfw">@gitcoin</a> for the platform + QF matching. <br /><br />this was our first <a href="https://twitter.com/gitcoin?ref_src=twsrc%5Etfw">@gitcoin</a> fundraise. learnings + reflections🧵 👇</p>&mdash; deepa 🏴‍☠️ 🤺👑 🌶 (Impact DAO Book+ Magazine) (@deeparocks) <a href="https://twitter.com/deeparocks/status/1550168023968796673?ref_src=twsrc%5Etfw">July 21, 2022</a></blockquote>
+          {/* 1583474894821810176 */}
+          <blockquote class="twitter-tweet"><p lang="en" dir="ltr">✌️ultimate guide to impact daos for the beginners. we define impact daos + features + advantages + brief history + why future is impact daos 🔥🌎🚀<a href="https://t.co/ZrqNP7Yx27">https://t.co/ZrqNP7Yx27</a></p>&mdash; ImpactDAO Media (@ImpactDAOMedia) <a href="https://twitter.com/ImpactDAOMedia/status/1583474894821810176?ref_src=twsrc%5Etfw">October 21, 2022</a></blockquote> 
+          {/* 1579494001153277954 */}
+          <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For Ep. 73 of the Crypto Altruism Podcast, we welcome <a href="https://twitter.com/deeparocks?ref_src=twsrc%5Etfw">@deeparocks</a> &amp; <a href="https://twitter.com/0xSardius?ref_src=twsrc%5Etfw">@0xSardius</a> from <a href="https://twitter.com/ImpactDAOMedia?ref_src=twsrc%5Etfw">@ImpactDAOMedia</a> <br /><br />We discuss:<br />✨How <a href="https://twitter.com/hashtag/DAOs?src=hash&amp;ref_src=twsrc%5Etfw">#DAOs</a> help communities organize around causes<br />✨Why nonprofits should become DAOs<br />✨How DAOs &amp; <a href="https://twitter.com/hashtag/web3?src=hash&amp;ref_src=twsrc%5Etfw">#web3</a> will revolutionize work<br /><br />🎧Listen: <a href="https://t.co/hBIv9yShF1">https://t.co/hBIv9yShF1</a> <a href="https://t.co/givngveM1P">pic.twitter.com/givngveM1P</a></p>&mdash; CryptoAltruism 🇺🇦 (@Crypto_Altruism) <a href="https://twitter.com/Crypto_Altruism/status/1579494001153277954?ref_src=twsrc%5Etfw">October 10, 2022</a></blockquote>
+          {/* 1583137673174487040 */}
+          <blockquote class="twitter-tweet"><p lang="en" dir="ltr">15 mins until our friend <a href="https://twitter.com/deeparocks?ref_src=twsrc%5Etfw">@deeparocks</a> with <a href="https://twitter.com/ImpactDAOMedia?ref_src=twsrc%5Etfw">@ImpactDAOMedia</a> is speaking on this Twitter Space. Tune in and show some love! <a href="https://t.co/HvVE9e70iF">https://t.co/HvVE9e70iF</a></p>&mdash; humanDAO | Pocket Assistant NFTs (@humanDAO) <a href="https://twitter.com/humanDAO/status/1583137673174487040?ref_src=twsrc%5Etfw">October 20, 2022</a></blockquote>
+          {/* 1580251154461888512 */}
+        </div>
 
-       
       </main>
 
       <footer className="border-t bg-green-500 text-white  text-center">
-        <div className="container mx-auto pt-10 pb-20 max-w-3xl">
+        <div className="container mx-auto pt-10 pb-20 px-4 max-w-3xl">
           <div id='buzzsprout-large-player'></div>
-          <Script src='https://www.buzzsprout.com/2057401.js?container_id=buzzsprout-large-player&player=large' strategy="lazyOnload"></Script>
           <p className="text-3xl mt-4">
             We're a web3 media collective on a mission to elevate the stories of impact DAOs
           </p>
           <p className="text-xs uppercase mt-4">Impact DAO Media</p>
         </div>
       </footer>
+
+      <Script src="https://platform.twitter.com/widgets.js" strategy="lazyOnload"></Script>
+      <Script src='https://www.buzzsprout.com/2057401.js?container_id=buzzsprout-large-player&player=large' ></Script>
+      <Script src="https://substackapi.com/widget.js" strategy="lazyOnload"></Script>
+
     </div>
   )
 }
