@@ -39,21 +39,6 @@ export default function Home() {
       <div className="my-4 mb-8">
         <p className="text-sm mb-2 text-center">Book coming soon. Subscribe below to stay updated</p>
         <div id="custom-substack-embed"></div>
-
-        <Script strategy="lazyOnload">
-        {`window.CustomSubstackWidget = {
-          substackUrl: "cryptogood.substack.com",
-          placeholder: "your-email@gmail.com",
-          buttonText: "Subscribe",
-          theme: "custom",
-          colors: {
-            primary: "#FFEE59",
-            input: "#FFFFFD",
-            email: "#1D1D1D",
-            text: "#000000",
-          }
-        };`}
-        </Script>
         </div>
 
         <div className="flex gap-8 items-center justify-center mb-4">
@@ -92,10 +77,24 @@ export default function Home() {
         </div>
       </footer>
 
-      <Script src="https://platform.twitter.com/widgets.js" strategy="lazyOnload"></Script>
-      <Script src='https://www.buzzsprout.com/2057401.js?container_id=buzzsprout-large-player&player=large' ></Script>
+      <Script src='https://www.buzzsprout.com/2057401.js?container_id=buzzsprout-large-player&player=large' strategy="afterInteractive"></Script>
+      <Script src="https://platform.twitter.com/widgets.js" strategy="afterInteractive"></Script>
       <Script src="https://substackapi.com/widget.js" strategy="lazyOnload"></Script>
 
+      <Script strategy="beforeInteractive">
+        {`window.CustomSubstackWidget = {
+          substackUrl: "cryptogood.substack.com",
+          placeholder: "your-email@gmail.com",
+          buttonText: "Subscribe",
+          theme: "custom",
+          colors: {
+            primary: "#FFEE59",
+            input: "#FFFFFD",
+            email: "#1D1D1D",
+            text: "#000000",
+          }
+        };`}
+        </Script>
     </div>
   )
 }
