@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Script from 'next/script'
 
 import {  TwitterTweetEmbed  } from 'react-twitter-embed';
-import { FaTwitter, FaPodcast, FaBookOpen } from "react-icons/Fa";
+import { FaTwitter, FaPodcast, FaBookOpen } from "react-icons/fa";
 
 import styles from '../styles/Home.module.css'
 import bookImage from '../public/book.png'
