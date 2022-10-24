@@ -25,7 +25,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="The definitive guide to everything Impact DAO" />
         <meta name="twitter:title" content="The Impact Dao Book" />
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@impactdaos" />
         <meta name="twitter:image" content="https://impactdaos.xyz/banner-square.png" href="https://impactdaos.xyz/banner-square.png"/>
         <meta name="twitter:image:alt" content="Impact Dao Media Logo" />
