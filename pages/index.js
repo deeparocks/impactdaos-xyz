@@ -27,7 +27,7 @@ export default function Home() {
         <meta name="twitter:title" content="The Impact Dao Book" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@impactdaos" />
-        <meta name="twitter:image" content="https://impactdaos.xyz/banner.png" />
+        <meta name="twitter:image" content="https://impactdaos.xyz/banner.png" href="https://impactdaos.xyz/banner.png"/>
         <meta property="og:image" content="https://impactdaos.xyz/banner.png" />
       </Head>
 
