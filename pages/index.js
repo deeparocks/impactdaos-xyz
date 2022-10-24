@@ -13,18 +13,21 @@ import tweet4 from '../public/tweet4.png'
 const tweets = [
   [tweet1, "1550168023968796673"], 
   [tweet2, "1583474894821810176"],
-[tweet3, "1579494001153277954"],
-[tweet4, "1583137673174487040"]
-  ]
+  [tweet3, "1579494001153277954"],
+  [tweet4, "1583137673174487040"]
+]
 
 export default function Home() {
   return (
     <div>
       <Head>
         <title>Impact Dao Book</title>
-        <meta name="description" content="The definitive guide to everything Impact DAO" />
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:image" content="https://impactdao.media/banner.png" />
+        <meta name="description" content="The definitive guide to everything Impact DAO" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@impactdaos" />
+        <meta name="twitter:image" content="https://impactdaos.xyz/banner.png" />
+        <meta property="og:image" content="https://impactdaos.xyz/banner.png" />
       </Head>
 
       <div className="bg-green-500 p-2 w-full text-center"></div>
@@ -53,7 +56,7 @@ export default function Home() {
         </div>
 
         <div className="flex gap-8 items-center justify-center mb-4">
-          <a href="https://twitter.com/ImpactDAOMedia" target="_blank">
+          <a href="https://twitter.com/impactdaos" target="_blank">
             <FaTwitter size={60} className="text-blue-500"/>
           </a>
           <a href="https://impactdaomedia.buzzsprout.com/share" target="_blank">
@@ -66,7 +69,7 @@ export default function Home() {
 
         <div className="flex flex-col md:flex-row items-start gap-2 overflow-scroll" >
           {tweets.map(([src, tweetId]) => (
-              <a href={`https://twitter.com/ImpactDAOMedia/status/${tweetId}`} 
+              <a href={`https://twitter.com/impactdaos/status/${tweetId}`} 
               target="_blank"
               className="border rounded-md p-2">
               <Image
