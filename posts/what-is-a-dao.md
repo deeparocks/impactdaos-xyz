@@ -1,3 +1,8 @@
+---
+title: What is a DAO? A Crash Course
+description: The aim in this initial chapter is to communicate a clear definition of the word DAO
+---
+
 # What is a DAO? A Crash Course
 
 We recognize that readers of this book will come from many different backgrounds. Some will be hazy about what a DAO is, while others may have direct experience contributing to multiple DAOs.
