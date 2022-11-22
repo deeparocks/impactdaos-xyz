@@ -1,3 +1,11 @@
+---
+chapter: 4
+title: Learnings & Analysi
+description: Top leanings from the study of 12 Impact Daos, 30 Impact Builders 
+---
+
+
+
 # Learnings and Analysis
 
 
