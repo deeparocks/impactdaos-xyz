@@ -54,6 +54,16 @@ Confused? Good, that is normal. Let’s keep going.
 
 It’s best to think of DAOs in terms of a spectrum of development. Let’s begin on the left-hand side, with the least developed or ‘minimum viable’ criteria for a DAO.
 
+|Minimum Viable DAO  | Mature DAO |
+|--|--|
+| Peeps |  Teams|
+| Vibes | Workstreams |
+| Scotch Tape |Culture  |
+|  |Governance  |
+|  |  Workflows|
+|  | Processes |
+
+
 #### Minimum Viable DAO
 
 The MVD (Minimum Viable DAO) is the “group chat with a shared bank account”. It will have these three elements.
@@ -135,4 +145,4 @@ As you can see, the list of possibilities is endless. In the early days, DAOs we
 
 Which brings us to Impact DAOs.
 
-Of all the emerging categories, we believe this is the most exciting and important. The aim of ImpactDAOs is to take on major social and environmental problems that traditional institutions have ignored, failed to address or failed to solve completely.
+Of all the emerging categories, we believe this is the most exciting and important. The aim of Impact DAOs is to take on major social and environmental problems that traditional institutions have ignored, failed to address or failed to solve completely.
