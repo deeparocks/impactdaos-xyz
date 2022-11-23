@@ -1,28 +1,26 @@
 ---
+chapter: 7
 title: Appendix
-description: Acknowledgements & Glossary (Web3 and DAO) 
+description: Acknowledgements & Glossary (Web3 and DAO)
 ---
 
+# Acknowledgements
+
+The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs.
+
+Impact DAO Media is grateful to the following contributors and sponsors.
 
 # Acknowledgements
 
-The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs. 
+The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs.
 
-Impact DAO Media is grateful to the following contributors and sponsors. 
-
-# Acknowledgements
-
-The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs. 
-
-Impact DAO Media is grateful to the following contributors and sponsors. 
-
+Impact DAO Media is grateful to the following contributors and sponsors.
 
 ### Book Publishing
 
 [Matthew](https://twitter.com/Value_Strat), Writer & Editor in Chief, Korea 🇰🇷
 [Deepa](https://twitter.com/deeparocks), Writer & Editor, Canada 🇨🇦
 [Max Goodman](https://twitter.com/maxxgrok), Writer & Editor, USA 🇺🇸
-
 
 ### Branding and Visuals
 
@@ -31,9 +29,8 @@ Impact DAO Media is grateful to the following contributors and sponsors.
 [Gregory Stock](https://www.linkedin.com/in/gregorytstock/), Brand Strategist, USA 🇺🇸
 [Yvonne](https://twitter.com/tranimal), Designer & Brand Strategist, USA 🇺🇸
 
-
-
 ### Impact DAOs Research
+
 Abbie, Transcription & Case Studies, UK 🇬🇧
 [Abeera](https://twitter.com/Abeers123), Case Studies & Analysis, Pakistan 🇵🇰
 [Alex](https://twitter.com/BlockchangeSol1), Transcription & Case Studies, Ireland 🇮🇪
@@ -51,8 +48,8 @@ Katerina,](https://twitter.com/katerinabohlec) Analysis, Spain 🇪🇸
 [Siddhearta](https://twitter.com/0xSiddhearta), Editor & BanklessDAO Liaison, USA 🇺🇸
 [Yvonne](https://twitter.com/tranimal), Builder Interviews, Interview Questionnaire & Selection, USA 🇺🇸
 
-
 ### Audio Production
+
 [Alritedi](https://twitter.com/AlriteDi), Podcast Editor, USA 🇺🇸
 [WinVerse](https://twitter.com/TagboWinner), Podcast Editor, Nigeria 🇳🇬
 [Alkohlm](https://twitter.com/alkohlmist), Twitter Spaces, Podcast Host & Media Strategist, USA 🇺🇸
@@ -60,11 +57,11 @@ Alex, Podcast Host & Clips, Ireland 🇮🇪
 Max Goodman, Twitter Spaces Host, USA 🇺🇸
 
 ### Operations
+
 Deepa, Accounts, Operations & Coordination Lead, Canada 🇨🇦
 [Pedro](https://twitter.com/parrachia), Notion, Book Management & Mirror Publishing, Brazil 🇧🇷
 [Sardius](https://twitter.com/0xSardius), Accounts, Operations & Project Lead, USA 🇺🇸
 Yvonne, Accounts, Operations & Project Lead, USA 🇺🇸
-
 
 ## Impact DAOs Research & Book Donors
 

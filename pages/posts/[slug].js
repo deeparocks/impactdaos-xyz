@@ -9,8 +9,10 @@ export default function Post({ post }) {
       description={post.description}
       image={post.image}
       >
+        <div className="w-full md:w-6/12">
          <article className="prose lg:prose-xl" 
          dangerouslySetInnerHTML={{__html: post.content}} />
+         </div>
     </Layout>
   )
 }

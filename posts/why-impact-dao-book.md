@@ -1,4 +1,5 @@
 ---
+chapter: 1
 title: Why Impact DAO Book
 description: Who is the book for, why we wrote it, and how to read it
 ---
@@ -18,7 +19,7 @@ The origins of this book can be traced to the founding of [Ukraine DAO](https://
 The speed at which the DAO was formed and the effectiveness of its execution demonstrated a new, practical way of achieving ambitious goals for the benefit of a large number of people. Individuals combining in cyberspace and around a shared purpose to solve societal-level problems.
 
 We were curious to dig deeper into this new model of doing good. We saw the potential of web3-enabled collectives like Ukraine DAO replacing the traditional nonprofit structure to become a norm for solving problems of every order of magnitude.
-  
+
 So, my friend, this book is for you.
 
 You don’t need to be a crypto expert, a crypto advocate, or even crypto-curious.
@@ -26,13 +27,10 @@ You don’t need to be a crypto expert, a crypto advocate, or even crypto-curiou
 This book is worth reading if any of the following apply.
 
 - You think crypto is a scam and nothing more. Dive into this book to learn how talented folks are building amazing coordination systems and having a far-reaching, positive impact in the world.
-    
--   You have heard of crypto but do not know about the broader web3 landscape. Why is it that young people are engaged, and dreamers are inspired, and technologists, humanists, climate activists, and futurists are feeling the buzz? What makes it so attractive for them to build in it? Read on to find out.
-    
--   You are interested in what doing good will look like in the future. Learn why nonprofits are not the answer to solving large-scale societal problems and how ImpactDAOs will replace them. The new model provides a brand new efficient way of doing good.
-    
--   You’d like to know how DAOs are upending the traditional company. What does the future of work look like? How can you prepare yourself for it? It’s all covered here.
-    
+- You have heard of crypto but do not know about the broader web3 landscape. Why is it that young people are engaged, and dreamers are inspired, and technologists, humanists, climate activists, and futurists are feeling the buzz? What makes it so attractive for them to build in it? Read on to find out.
+- You are interested in what doing good will look like in the future. Learn why nonprofits are not the answer to solving large-scale societal problems and how ImpactDAOs will replace them. The new model provides a brand new efficient way of doing good.
+- You’d like to know how DAOs are upending the traditional company. What does the future of work look like? How can you prepare yourself for it? It’s all covered here.
+
 ## Why we wrote it
 
 Our goal with this book is to provide a reliable snapshot of the current state of ImpactDAOs. There are a lot of misconceptions floating around, commonly held and re-iterated in prominent conversations within the web3 community. Unfortunately, this has led to a somewhat blurred narrative forming around the DAO concept. We wanted to set out the facts on ImpactDAOs, sourced directly from the DAO builders themselves.
@@ -45,7 +43,6 @@ The final list of 12 Impact DAOs spanned three categories - Meta DAOs (enabling 
 
 In addition to conducting intensive research on our target group, we formed an ImpactDAO of our own ([ImpactDAO Media](https://twitter.com/home)) to acquire hands-on DAO-building experience. As of the time of writing, this DAO is five months old, and we have learned many [first-hand lessons](https://cryptogood.substack.com/p/learnings-on-building-a-dao-from) about establishing and growing a DAO. Additionally, living the “DAO life” also helped us ask pertinent questions to our interviewees about this process, from seeding to scaling and the challenges therein.
 
- 
 ## How to read it
 
 **Chapter 1** begins the book with a basic overview of the DAO concept, where it comes from, and where it is heading.

@@ -23,27 +23,33 @@ export const Layout = ({
         <meta property="og:image" content={image} />
       </Head>
 
-      <div className="w-full">
-        <div className="w-full md:w-8/12 mx-auto flex flex-wrap gap-2 items-center justify-between bg-green-500/30 p-2 px-4 rounded-b-xl">
-          <h1 className="text-xl font-bold text-green-900 uppercase">
+      <div className="w-full px-2">
+        <div className="w-full md:w-5/12 mx-auto flex flex-wrap gap-2 items-center justify-between bg-green-500 p-3 px-6 rounded-b-xl">
+          <h1 className="text-2xl font-semibold text-white uppercase">
             <a href="/">Impact DAO Book</a>
           </h1>
-          <div id="custom-substack-embed"></div>
+
+          <div className="flex gap-4">
+            <a href="https://twitter.com/impactdaos" target="_blank">
+              <FaTwitter size={30} className="text-white" />
+            </a>
+            <a
+              href="https://impactdaomedia.buzzsprout.com/share"
+              target="_blank"
+            >
+              <FaPodcast size={30} className="text-white" />
+            </a>
+            <a
+              href="https://cryptogood.substack.com/s/impact-daos-research"
+              target="_blank"
+            >
+              <FaBookOpen size={30} className="text-white" />
+            </a>
+          </div>
         </div>
 
-        <div className="w-8/12 md:w-3/12 mx-auto flex gap-8 items-center justify-center mt-4 p-2 shadow rounded-full">
-          <a href="https://twitter.com/impactdaos" target="_blank">
-            <FaTwitter size={40} className="text-blue-500" />
-          </a>
-          <a href="https://impactdaomedia.buzzsprout.com/share" target="_blank">
-            <FaPodcast size={40} className="text-purple-500" />
-          </a>
-          <a
-            href="https://cryptogood.substack.com/s/impact-daos-research"
-            target="_blank"
-          >
-            <FaBookOpen size={40} className="text-green-500" />
-          </a>
+        <div className="w-full md:w-5/12 mx-auto flex items-center justify-center mt-3">
+          <div id="custom-substack-embed"></div>
         </div>
       </div>
 
