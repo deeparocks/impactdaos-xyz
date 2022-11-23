@@ -1,7 +1,7 @@
 ---
 chapter: 5
 title: Learnings & Analysis
-description: Top leanings from the study of 12 Impact Daos, 30 Impact Builders
+description: Top leanings from the study of 12 Impact DAOs, 30 Impact Builders
 ---
 
 # Learnings and Analysis
