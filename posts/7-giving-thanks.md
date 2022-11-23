@@ -1,16 +1,14 @@
 ---
 chapter: 7
-title: Appendix
-description: Acknowledgements & Glossary (Web3 and DAO)
+title: Giving Thanks
+description: Giving thanks to our community
 ---
 
-# Acknowledgements
+# Giving Thanks 🙌
 
 The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs.
 
 Impact DAO Media is grateful to the following contributors and sponsors.
-
-# Acknowledgements
 
 The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs.
 

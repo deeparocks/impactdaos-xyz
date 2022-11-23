@@ -1,5 +1,5 @@
 ---
-chapter: 4
+chapter: 5
 title: Learnings & Analysis
 description: Top leanings from the study of 12 Impact Daos, 30 Impact Builders
 ---
@@ -85,7 +85,7 @@ We are thankful to the interviewees. They shared their insights openly and gener
 15. Trusted, high-touch human relationships are core to a DAO’s success. Unlike the popular notion that a DAO is codified trustware at the core and social ware (human interaction) on the edges, 11 out of our 12 Impact DAOs believe in putting humans at the core and limiting technology to enabling this coordination between humans (e.g. work flows and protocol-based execution of the mission).
 
 16. DAOs have a concentric structure unlike the hierarchical structure of traditional organizations. All the Impact DAOs in our study had a similar organization structure.
-    ![](https://cdn.discordapp.com/attachments/1039571842140229664/1043064492042498108/infographic1.png)
+    ![Impact DAOs Org Structure](/posts/dao-org-structure.png)
 
 17. The mindset needed to thrive in a DAO work environment is the same as that of an adventurous explorer, brave and ready for the unknown: proactive in defining their own adventure and collaborating generously with other DAO members to achieve the common goals of the ImpactDAO. A successful DAO member will be able to be savvy enough to navigate Discord, Telegram, and have the humility to not always be the leader, and to step back and step up as appropriate.
 
@@ -143,9 +143,9 @@ In regard to operation and core team structure, most Impact DAOs have a team of 
 
 Major variables contributing to this structure include the stage of the Impact DAO (minimum viable DAO or mature DAO), collective governance structures chosen, and values. GitcoinDAO is more mature and significantly larger than PactDAO, so their delegated voting structure makes more sense for them to implement, as do the 4 layers of contributors. For PactDAO, this would prove an unnecessary and arduous process, distancing those represented from their communities and their intent of hyper-local impact. All Impact DAOs seek consensus for key decisions in ways that make sense for their structure. A casual group DM (Direct Message) may be sufficient for a minimum viable DAO, whereas for a mature DAO with thousands of members, a vote on a Tally proposal executed on-chain with a Safe would be more efficient and effective. Impact DAOs primarily care about the efficiency and expediency of solutions for coordination, rather than being bogged down in arduous tasks and processes, they seldom document internal practices until they are more mature. Early stage structures of minimum viable DAOs are based on ‘vibes’ only and are mostly non-hierarchical with more than one founding contributor.
 
-![](https://lh5.googleusercontent.com/FHHSyVwBP5Ya29aI3DXeXG2PUA4yi-l2vEK9rq3VOs976ddqJ24ff3MtTvnkbCFU1IvUHaWJF7I-q6gxPp5g16BTvE4_tujkdh3vOe-BQe2yQHrJs-oI-wC0rruLRiRc3Os8EL9810mdJCDtTngFfk5KNs9kcKwBYyN0UscVRXB8tG7iG5M9eofZMXfPXg "Chart")
+![](/posts/dao-employees-and-roles.png)
 
-![](https://lh6.googleusercontent.com/hJpYSGzlWGax2XWBzThf-OGcfB38DJ9p1cOIyfjD--9HGjO1ONKX0xmPCEDr4w8ERoAVoe2qFJYDMA7w5VLLF8obwXU1aaQFA24ANcW5uwTTNh0X2ArqjFg84vhAn3ds4diruA0Sw-JEKqtIR2B9nv2oAoYwWnmRon1Y1Mm-ozuQ3IG1QNw96NddfzRPUg "Chart")
+![](/posts/dao-contributor-results.png)
 
 **3. Operations Workflow**
 
@@ -159,7 +159,7 @@ In the more mature DAOs, in a delegated voting process, there are individual rep
 
 Impact DAOs use a mixture of web2 and web3 tools at their current stage of development. Web2 tools remain prominent out of necessity to get work done, while web3 tools are necessary for any governance and decentralized payments needs.
 
-![](https://lh3.googleusercontent.com/fFIHIsct4359LeCu9ZRCZ4-gUlDfCDpGiUouh5A1PCAva2Q5l-G8AjJP0FbKsZeVRFup45N2xgaUou0I9cGzXvwVjOqRJHux24HPBZz1vLlrTcp6P2Goqmpr4wrTQP7NYSk37-DMOIfCL0XaRNJ2YlvORI_L2WBhngYistsyQ-dFwj7_4I30rpgVuc5jBg "Chart")
+![](/posts/top-20-dao-tools.png)
 
 The tactical ‘how’ is revealed in a DAO’s tooling choices. Most Impact DAOs researched use Discord for getting work by setting up various Discord channels as workstreams and for general communication. Commonly used tools are as follows
 

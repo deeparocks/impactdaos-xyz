@@ -1,12 +1,12 @@
 ---
-chapter: 6
+chapter: 4
 title: Case Studies
 description: We profile 12 Impact DAOs and how they DAO
 ---
 
 This chapter showcases the 12 Impact DAOs that are part of our study. We begin with Impact DAOs addressing societal issues, followed by the ones engaged in climate solutions, and then the meta Impact DAOs providing funding and assistance to social and climate Impact DAOs.
 
-The Impact DAOs showcase provides an overview of who they are and how they DAO, with links to 1:1 interviews with the builders for deeper insights into their DAO way of making an impact. 
+The Impact DAOs showcase provides an overview of who they are and how they DAO, with links to 1:1 interviews with the builders for deeper insights into their DAO way of making an impact.
 
 # Human DAO
 
@@ -15,10 +15,10 @@ The Impact DAOs showcase provides an overview of who they are and how they DAO, 
 1.  Christopher Chase, Founder
 2.  Adam, Core Team Contributor
 3.  Kyla, Core Team Contributor
-    
+
 Interviewer(s): Deepa
 
-## What is Human DAO 
+## What is Human DAO
 
 Human DAO’s mission is to use crypto and web3 to improve lives. Founded by Christopher Chase in 2021, Human DAO evolved out of the play-to-earn surge that peaked in the [Philippines in 2020](https://www.youtube.com/watch?v=Yo-BrASMHU4).
 
@@ -28,8 +28,8 @@ In time, he found himself being approached for scholarships - a system in the ga
 
 The Axie model uses the blockchain to create cross-border economic opportunities without the need for work visas or official trade agreements. Previously, you had to buy your way into crypto (e.g. exchange USD for BTC). Now you could earn your way in. Almost unintentionally, games such as Axie onboarded millions of “ambition-rich” individuals to the cryptoverse.
 
-It eventually struck Christoper that this model could be parlayed into generating economic value via real-world tasks. Hence the idea of their new product, [Pocket Assistant NFT](https://medium.com/@TheHumanDAO/a-truly-human-nft-6efb92e5d47a) was born. PANFT holders outsource simple web based tasks to people in the emerging markets thus providing them work and an opportunity to earn in crypto. With their new initiative PANFT, Human DAO is expanding to Argentina and Nigeria.  
-  
+It eventually struck Christoper that this model could be parlayed into generating economic value via real-world tasks. Hence the idea of their new product, [Pocket Assistant NFT](https://medium.com/@TheHumanDAO/a-truly-human-nft-6efb92e5d47a) was born. PANFT holders outsource simple web based tasks to people in the emerging markets thus providing them work and an opportunity to earn in crypto. With their new initiative PANFT, Human DAO is expanding to Argentina and Nigeria.
+
 “It’s a cross between Tinder and Uber”, as Christopher puts it, referring to the fact that the platform’s web app allows PAs to view potential tasks and “swipe right” on those they wish to undertake.
 
 The system is therefore predicated on a fair exchange of value: a PANFT holder gets to save time and effort on routine tasks, while the PA can generate a regular income (e.g. $400 per month). In certain countries such as Argentina, an income of this size, paid in stablecoin, is preferable in many ways to a conventional job.
@@ -38,14 +38,11 @@ The aim of HumanDAO in the broadest sense is to use the disruptive power of Web3
 
 ## How Do They DAO
 
--   Human DAO uses tokenomics to fund their operations and impact. The [HDAO token](https://docs.humandao.org/hdao-token) launched with the DAO helped them generate $3.5mil in funding.
-    
--   Remote distributed team with contributors and community collaborating on Discord. They have the largest community amongst the Impact DAOs we studied with 60,000 Discord members.
-    
--   Their tech stack comprises Ethereum and Polygon blockchain, Discord for community, Facebook, LinkedIn and Indeed for community outreach, Notion for Documentation, Safe (formerly Gnosis Safe) and Parcel for fund management, Discourse and Snapshot for governance and voting.
-    
--   Beneficiaries are part of the community and so are token holders. All stakeholders [collectively govern the DAO](https://docs.humandao.org/governance). Anyone can raise a proposal which is discussed and voted upon by token holders.
-    
+- Human DAO uses tokenomics to fund their operations and impact. The [HDAO token](https://docs.humandao.org/hdao-token) launched with the DAO helped them generate $3.5mil in funding.
+- Remote distributed team with contributors and community collaborating on Discord. They have the largest community amongst the Impact DAOs we studied with 60,000 Discord members.
+- Their tech stack comprises Ethereum and Polygon blockchain, Discord for community, Facebook, LinkedIn and Indeed for community outreach, Notion for Documentation, Safe (formerly Gnosis Safe) and Parcel for fund management, Discourse and Snapshot for governance and voting.
+- Beneficiaries are part of the community and so are token holders. All stakeholders [collectively govern the DAO](https://docs.humandao.org/governance). Anyone can raise a proposal which is discussed and voted upon by token holders.
+
 For a deeper understanding on how Human DAO operates refer to the conversation with Human DAO Founder and Builders
 
 [Interview with Christopher Chase, Founder Human DAO](https://open.spotify.com/episode/2tJm9SSw1XOACTgfwyXUU3?si=x_7rUZvzRVWCDGmyA1Sccw)
@@ -55,50 +52,45 @@ For a deeper understanding on how Human DAO operates refer to the conversation w
 # Impact Market
 
 #### DAO Members Interviewed:
+
 1. Marco, Co-Founder
 2. Bernardo, Co-Founder
 3. Jessica, COO
 
 Interviewer(s): Yvonne, Harsha and Deepa
 
-## What is Impact Market 
+## What is Impact Market
 
 Impact Market is a poverty alleviation protocol governed by a DAO distributing unconditional basic income in cryptocurrency ([stablecoin cUSD](https://coinmarketcap.com/currencies/celo-dollar/)) directly to people living in extreme poverty. Impact Market uses smart contracts (self-executing computer programs with contract rules written into lines of code) to distribute unconditional basic income (UBI). Funds are deposited directly into the wallets on the phones of people that are hard to access in places like Afghanistan, Venezuela, Congo, Ghana, Zimbabwe, Togo, Mali. Most of the countries on their list are war stricken, hyper-inflated economies where the dollar can make the most difference and have high penetration of smartphones.
 
 “The same code works in any region. It’s beautiful. You don’t need to set up a subsidiary or a local bank account,” says Marco. “People think scalability is about the number of transactions. But a lot of people are constrained by the lack of a bank account and other logistics.” Whereas traditional fund distribution to distressed areas of the globe requires the use of costly intermediaries and on-the-ground auditors, the blockchain clears away such barriers.
 
-Impact Market recently renamed their Poverty Alleviation Protocol to [Human Empowerment](https://medium.com/impactmarket/our-new-chapter-towards-human-empowerment-begins-here-and-now-86826fb0bedd)  to reflect their new ambitious vision of going beyond UBI to provide education through learn to earn, micro insurance and micro loans. They are also developing interesting new solutions to verifying identity and reputation of beneficiaries and have developed an inhouse crypto wallet that fits the requirements of their beneficiaries of low tech smartphones Their goal is to reach the poor without intermediaries and be 100% decentralized in their operations.
+Impact Market recently renamed their Poverty Alleviation Protocol to [Human Empowerment](https://medium.com/impactmarket/our-new-chapter-towards-human-empowerment-begins-here-and-now-86826fb0bedd) to reflect their new ambitious vision of going beyond UBI to provide education through learn to earn, micro insurance and micro loans. They are also developing interesting new solutions to verifying identity and reputation of beneficiaries and have developed an inhouse crypto wallet that fits the requirements of their beneficiaries of low tech smartphones Their goal is to reach the poor without intermediaries and be 100% decentralized in their operations.
 
 As a young organization founded in late 2020, Impact Market has had a tremendous impact. They have distributed UBI to over 40,000 people across 269 communities in 35+ countries. The UN WFP is partnering with them in many hard to reach places such as Afghanistan to get the UBI people via the phone
 
 ## How Do they DAO
 
--   Launched as a DAO in late 2021 (a year after the protocol) with the idea of DAO and protocol controlled by the token holders. The implication is that donors can now participate in DAO governance matters. Anyone that donates to Impact Market earns a [$PACT token](https://medium.com/impactmarket/introducing-pact-governance-token-airgrab-impact-farming-4e99c899701e) that entitles them to governance matters of the DAO for instance which communities should Impact Market onboard next for the UBI, donors can now have a say as they are part of the organization.
-    
--   Tokenomics to be self-sustainable with $PACT token providing both liquidity and serving as a governance token. ([$PACT](https://docs.impactmarket.com/impactmarket-apps-1/usdpact))
-    
--   Collaborative decision making with the two co-founders at the helm for direction setting
-    
--   Full time and part time contributors are paid in cUSD (Celo stablecoin) the currency used for UBI for the poor.
-    
--   Tech stack comprises Celo blockchain, Valora crypto wallet, slack for collaboration, discord for community engagement, GitBook for documentation, Google Docs and CRM for data insights and relationships management.
-    
--   Slow approach to decentralization. Even though Impact Market launched as DAO by introducing the $PACT token they are still on their journey to fully decentralize the organization with the goal to include all token holders in voting and governance matters.
-    
+- Launched as a DAO in late 2021 (a year after the protocol) with the idea of DAO and protocol controlled by the token holders. The implication is that donors can now participate in DAO governance matters. Anyone that donates to Impact Market earns a [$PACT token](https://medium.com/impactmarket/introducing-pact-governance-token-airgrab-impact-farming-4e99c899701e) that entitles them to governance matters of the DAO for instance which communities should Impact Market onboard next for the UBI, donors can now have a say as they are part of the organization.
+- Tokenomics to be self-sustainable with $PACT token providing both liquidity and serving as a governance token. ([$PACT](https://docs.impactmarket.com/impactmarket-apps-1/usdpact))
+- Collaborative decision making with the two co-founders at the helm for direction setting
+- Full time and part time contributors are paid in cUSD (Celo stablecoin) the currency used for UBI for the poor.
+- Tech stack comprises Celo blockchain, Valora crypto wallet, slack for collaboration, discord for community engagement, GitBook for documentation, Google Docs and CRM for data insights and relationships management.
+- Slow approach to decentralization. Even though Impact Market launched as DAO by introducing the $PACT token they are still on their journey to fully decentralize the organization with the goal to include all token holders in voting and governance matters.
+
 For a deeper understanding on Impact Market and how they operate refer to the conversation with Impact Market builders
 
 [Interview with Marco, Co-Founder Impact Market](https://open.spotify.com/episode/6VFUN3lOMKY26wF37IUv5G?si=G2JRjgdbT0iBXiyY_tXdbg)
 
 # Ukraine DAO
 
- #### DAO Members Interviewed:
+#### DAO Members Interviewed:
 
 1. Alona Schevchenko, Co-Founder
 2. Bertrand Juglas, Early Contributor
 
 Interviewer(s): Deepa
 
-  
 ## What is Ukraine DAO
 
 Ukraine DAO was formed in anticipation of Russia’s invasion of Ukraine on Feb 24, 2022. The DAO was set up 3 days prior to the border crossing. The goal was to raise funds for Ukrainians using web3. In just five days, UkraineDAO raised $7M in crypto donations from 3000+ people on the internet. Using the power of the Ethereum blockchain, web3 tech, and social media platforms, UkraineDAO was able to establish itself, mobilize, and collect and deploy funds rapidly and with maximum transparency.
@@ -107,13 +99,11 @@ Initially, UkraineDAO focused on providing financial support to the organization
 
 To date Ukraine DAO has:
 
--   Donated over $7 million to the Ukrainian government and to organizations like [Come Back Alive](https://www.notion.so/Come-Back-Alive-21db9480e63c463f955d8ee899f399fd). The donations are publicly verifiable in [UkraineDAO.eth - Treasury](https://www.notion.so/UkraineDAO-eth-Treasury-b080b59f794848fa8f6ac1b22575792c).  The Ukrainian flag NFT auctioned by Ukraine DAO is the tenth most valuable NFT ever sold, showing how non-fungible tokens can solve real-life problems.
--   Organized events both online and IRL to support the Ukrainian cause.
-    
--   Assisted other disaster relief DAOs - e.g. helping to set up [Iran DAO](https://mobile.twitter.com/iran__dao).
-    
--   Participated in the [Kyiv Tech Summit](https://mobile.twitter.com/KyivTechSummit) held in the middle of the war torn city. The tech summit was attended by Vitalik Buterin, Founder of Ethereum.
-    
+- Donated over $7 million to the Ukrainian government and to organizations like [Come Back Alive](https://www.notion.so/Come-Back-Alive-21db9480e63c463f955d8ee899f399fd). The donations are publicly verifiable in [UkraineDAO.eth - Treasury](https://www.notion.so/UkraineDAO-eth-Treasury-b080b59f794848fa8f6ac1b22575792c). The Ukrainian flag NFT auctioned by Ukraine DAO is the tenth most valuable NFT ever sold, showing how non-fungible tokens can solve real-life problems.
+- Organized events both online and IRL to support the Ukrainian cause.
+- Assisted other disaster relief DAOs - e.g. helping to set up [Iran DAO](https://mobile.twitter.com/iran__dao).
+- Participated in the [Kyiv Tech Summit](https://mobile.twitter.com/KyivTechSummit) held in the middle of the war torn city. The tech summit was attended by Vitalik Buterin, Founder of Ethereum.
+
 https://twitter.com/KyivTechSummit/status/1568616689083842562?s=20
 
 UkraineDAO demonstrates it is possible for a DAO to get up and running not only in response to, but ahead of, a disaster. It also shows how quickly a DAO can adapt to the changing situation that so many ongoing crises present.
@@ -122,22 +112,14 @@ UkraineDAO demonstrates it is possible for a DAO to get up and running not only 
 
 ## How Do They DAO
 
--   Internet-native (no office), no official legal status, no bank accounts, no board of directors, or any other trappings of a typical nonprofit organization.
-    
--   Completely volunteer-run with only one full-time paid contributor.
-    
--   100% crypto fundraising, using a multisig for fund management and NFTs as a tool for raising capital.
-    
--   The DAO is divided into smaller groups known as “pods” to carry out the DAO activities, each with functional leads. Not all pods are active at all times. Currently, the most active pod is Fact-Checking and Media Literacy, owing to the pressing need to amplify Ukrainian voices amid the flood of government propaganda.
-    
--   Participatory decision-making ([Ukraine DAO Governance](https://ukraine-dao.notion.site/Ukraine-DAO-Governance-eb34313505834095ad1d54e9f464e222)).
-    
--   Particular attention is paid to the onboarding and assimilation of new members. The majority of members are everyday Ukrainians with limited web3 knowledge. There are over 2,000 members on Discord and close to 20,000 followers on Twitter.
-    
--   The tech stack consists of: Telegram and Discord for work and community, Notion for documentation, Twitter and Substack for external communication and community building, and [Utopia Labs](https://www.utopialabs.com/) for treasury management
-    
--   Censorship resistance in particular is an advantage they have over their nonprofit counterparts. For example, the Ukrainian nonprofit Come Back Alive was suspended from fundraising on Patreon, while Ukraine DAO was shielded from censorship as a public blockchain-based organization ([Patreon on the Removal of Come Back Alive](https://blog.patreon.com/en-GB/on-the-removal-of-come-back-alive)).
-    
+- Internet-native (no office), no official legal status, no bank accounts, no board of directors, or any other trappings of a typical nonprofit organization.
+- Completely volunteer-run with only one full-time paid contributor.
+- 100% crypto fundraising, using a multisig for fund management and NFTs as a tool for raising capital.
+- The DAO is divided into smaller groups known as “pods” to carry out the DAO activities, each with functional leads. Not all pods are active at all times. Currently, the most active pod is Fact-Checking and Media Literacy, owing to the pressing need to amplify Ukrainian voices amid the flood of government propaganda.
+- Participatory decision-making ([Ukraine DAO Governance](https://ukraine-dao.notion.site/Ukraine-DAO-Governance-eb34313505834095ad1d54e9f464e222)).
+- Particular attention is paid to the onboarding and assimilation of new members. The majority of members are everyday Ukrainians with limited web3 knowledge. There are over 2,000 members on Discord and close to 20,000 followers on Twitter.
+- The tech stack consists of: Telegram and Discord for work and community, Notion for documentation, Twitter and Substack for external communication and community building, and [Utopia Labs](https://www.utopialabs.com/) for treasury management
+- Censorship resistance in particular is an advantage they have over their nonprofit counterparts. For example, the Ukrainian nonprofit Come Back Alive was suspended from fundraising on Patreon, while Ukraine DAO was shielded from censorship as a public blockchain-based organization ([Patreon on the Removal of Come Back Alive](https://blog.patreon.com/en-GB/on-the-removal-of-come-back-alive)).
 
 For a deeper understanding of Ukraine DAO and how they operate, refer to the full founder interview and a detailed profile of Ukraine’s DAO origin and fundraising.
 
@@ -163,34 +145,25 @@ Currently, Pact DAO defines its impact in terms of relationships formed with gra
 
 ## How Do They DAO
 
--   Pact DAO collaborates on Discord with 70+ members in their Discord community and 5 core team members.
-    
--   The group has completely transitioned to a DAO model and was among the first to amend its nonprofit bylaws to be DAO-compatible. The new, amended bylaws bring community members, broadly equivalent to board members, for collective decision-making.
-    
+- Pact DAO collaborates on Discord with 70+ members in their Discord community and 5 core team members.
+- The group has completely transitioned to a DAO model and was among the first to amend its nonprofit bylaws to be DAO-compatible. The new, amended bylaws bring community members, broadly equivalent to board members, for collective decision-making.
 
 > Right now, I guess we are the classic, a DAO with discord and
 > multi-sig - [Marisa Rando, Pact DAO](https://cryptogood.substack.com/p/pact-dao-building-hyper-local-city)
 
-  
--   Their tech stack is Discord for community, multisig wallet for fund management, Wonderverse for task management, and Notion for documentation.
-    
--   Fundraising is a crucial function. Pact DAO uses web3 fundraising platforms, [mirror.xyz](https://mirror.xyz/pactcollective.eth/crowdfunds/0x15BBCBC2Eae5C70A4473DB7dA6344dA291ce7E5e) and [Gitcoin Grants](https://gitcoin.co/grants/4780/pactdao-mutual-aid-economy) in addition raising funds in fiat on their website.
-    
--   The DAO does not have a token and they do not intend to launch a financial token
-    
--   Voting and decision-making in Pact DAO are carried out through discussions and emojis on Discord.
-    
--   Pact DAO is deeply inspired by the book “Mutual Aid” by Dean Spade, which strongly emphasizes relationship-building as a primary metric of success ([Mutual Aid: Building Solidarity in This Crisis](https://www.goodreads.com/en/book/show/54654726-mutual-aid), 2020).
-    
+- Their tech stack is Discord for community, multisig wallet for fund management, Wonderverse for task management, and Notion for documentation.
+- Fundraising is a crucial function. Pact DAO uses web3 fundraising platforms, [mirror.xyz](https://mirror.xyz/pactcollective.eth/crowdfunds/0x15BBCBC2Eae5C70A4473DB7dA6344dA291ce7E5e) and [Gitcoin Grants](https://gitcoin.co/grants/4780/pactdao-mutual-aid-economy) in addition raising funds in fiat on their website.
+- The DAO does not have a token and they do not intend to launch a financial token
+- Voting and decision-making in Pact DAO are carried out through discussions and emojis on Discord.
+- Pact DAO is deeply inspired by the book “Mutual Aid” by Dean Spade, which strongly emphasizes relationship-building as a primary metric of success ([Mutual Aid: Building Solidarity in This Crisis](https://www.goodreads.com/en/book/show/54654726-mutual-aid), 2020).
+
 > Sometimes web3 tools allow us to bypass relationships because we could
 > all purchase the same NFT and be authenticated into this group but do
 > we have shared values - [Marisa Rando, Founder Pact DAO](https://cryptogood.substack.com/p/pact-dao-building-hyper-local-city)
 
- 
--   Pact DAO employs a “dual power” operating philosophy that argues for working on two sides. You need to be both counter-power (similar to protesting) and also to simultaneously build solutions for what is being protested.
-    
--   One of their biggest learnings operating as a crypto organization interacting with local communities in New York, is that you have to meet people where they are and become part of their community. You have to be a neighbor, not an outsider, and to slowly help them understand the power of web3 in enabling change.
-    
+- Pact DAO employs a “dual power” operating philosophy that argues for working on two sides. You need to be both counter-power (similar to protesting) and also to simultaneously build solutions for what is being protested.
+- One of their biggest learnings operating as a crypto organization interacting with local communities in New York, is that you have to meet people where they are and become part of their community. You have to be a neighbor, not an outsider, and to slowly help them understand the power of web3 in enabling change.
+
 For a deeper understanding of how Pact DAO operates, please refer to the conversations with the Pact DAO builders.
 
 [Interview with Marisa Rando, Founder](https://open.spotify.com/episode/2LLS7M3T1hIQkjVgCepVJW?si=id3tWyYfSdCCksE68KTJrA)
@@ -208,7 +181,7 @@ Interviewer(s): Pauline de Mortain
 
 ## What is Proof of Humanity
 
-[Proof of Humanity (POH)](https://www.proofofhumanity.id/) is a proof of human identity protocol, a registry of unique (non-repeatable humans) built on the Ethereum blockchain. The protocol launched in March 2021 and has verified nearly 20,000 users as human to date! 
+[Proof of Humanity (POH)](https://www.proofofhumanity.id/) is a proof of human identity protocol, a registry of unique (non-repeatable humans) built on the Ethereum blockchain. The protocol launched in March 2021 and has verified nearly 20,000 users as human to date!
 
 The concept of having a blockchain-based identity for every human has the potential to help solve a multitude of problems, ranging from fair democracy (one person, one vote) to providing the 1.5 billion who currently lack a universally recognized form of identification, and hence cannot access services such as UBI. Other uses include emerging issues, such as the issue of bots on social media platforms and [sybil attacks](https://www.imperva.com/learn/application-security/sybil-attack/) in the cryptosphere.
 
@@ -229,22 +202,20 @@ While the open-source Proof of Humanity protocol was built by developers from Kl
 ## How Do They DAO
 
 - POH’s “one person, one vote” philosophy meant the DAO was decentralized from the beginning. Anyone on the registry automatically became part of the DAO and had a vote on governance matters. This makes it the “most democratic DAO” (according to its members!) as decision-making is wholly vested in the hands of the community
-   
+
 > In Proof Of Humanity, you join by registering on our protocol, and
 > then that's it - your registration is the participation you need to
 > vote, so you don't need any tokens at all. - Clement, CTO Kleros
 
--   Changes to the protocol can be proposed by anyone and are discussable by everyone. All registered users take a vote, and if there is a change or an update to the protocol, these are called ‘Humanity Improvement Proposals’.
-    
--   The DAO uses a form of delegated voting style whereby registered users can transfer their vote to a representative to vote on their behalf.
-    
--   Voting within the DAO has always been a contentious issue. The ‘one person, one vote’ model has led many to complain that most voters do not have enough knowledge or interest to vote optimally. Many registered voters came to POH initially for UBI, and hence may lack the full context on the issues being voted upon. The DAO is therefore evolving its voting mechanism and coming up with alternatives that help with the ultimate dual mission of having a registry of proof of personhood and UBI.
-    
+- Changes to the protocol can be proposed by anyone and are discussable by everyone. All registered users take a vote, and if there is a change or an update to the protocol, these are called ‘Humanity Improvement Proposals’.
+- The DAO uses a form of delegated voting style whereby registered users can transfer their vote to a representative to vote on their behalf.
+- Voting within the DAO has always been a contentious issue. The ‘one person, one vote’ model has led many to complain that most voters do not have enough knowledge or interest to vote optimally. Many registered voters came to POH initially for UBI, and hence may lack the full context on the issues being voted upon. The DAO is therefore evolving its voting mechanism and coming up with alternatives that help with the ultimate dual mission of having a registry of proof of personhood and UBI.
+
 For a deeper understanding of Proof of Humanity and the DAO, please refer to the following conversations with POH builders.
 
 Releasing soon on [All About Impact DAOs Podcast](https://open.spotify.com/show/3Mpb4Kp19RU14XJVMTumhi)
 
-Interview with Juanu, Core Developer Kleros 
+Interview with Juanu, Core Developer Kleros
 Interview with Clement, CTO Kleros  
 Interview with Federico, Founder Kleros
 
@@ -260,7 +231,7 @@ Interview with Federico, Founder Kleros
 
 Interviewer: Deepa
 
- ## What is GoodDollar
+## What is GoodDollar
 
 GoodDollar protocol is a standard for deploying free money as a public good. It achieves this by the issuance of a daily distribution of GoodDollar (a reserve-backed token) as daily universal basic income (UBI) to members, empowering everyone - regardless of socio-economic background - to onboard into crypto, start learning, and join the coming wealth boom. Anyone can receive real, free, reserve-backed crypto straight to their phone, so you don’t need to buy crypto or invest in order to participate and learn.
 
@@ -284,29 +255,21 @@ The bottom-up economy, as described in the protocol’s [initial whitepaper](htt
 
 ## How Do They DAO
 
- 
--   The GoodDollar protocol was always intended to be community-managed. It transitioned to a DAO in Jan 2022, 3 years after launching the UBI protocol.
-    
--   It has adopted a progressive decentralization approach, rather than going all in from the beginning. GoodDollar aims to decentralize one function at a time. Currently, the hiring of community leads and in-country ambassadors is managed via the DAO.
-    
--   Hiring for DAO jobs is carried out within the community, on the basis that $G token holders have ‘skin in the game’ and are best suited to steward the GoodDollar protocol.
-    
+- The GoodDollar protocol was always intended to be community-managed. It transitioned to a DAO in Jan 2022, 3 years after launching the UBI protocol.
+- It has adopted a progressive decentralization approach, rather than going all in from the beginning. GoodDollar aims to decentralize one function at a time. Currently, the hiring of community leads and in-country ambassadors is managed via the DAO.
+- Hiring for DAO jobs is carried out within the community, on the basis that $G token holders have ‘skin in the game’ and are best suited to steward the GoodDollar protocol.
+
 > We are hiring directly from the community of members. You need to
 > bring in people early that have the skin in the game. - [Anna Stone,
 > Co-Founder GoodDollar](https://open.spotify.com/episode/7ezQ1uAFzhu8K99fjYgCpr?si=-tK_1-fFQtON9-3FIlFUqQ)
 
--   GoodDollar members need to be active contributors for a minimum of 6 months in order to participate in the DAO.
-    
--   A separate DAO governance token known as GOOD is used for voting and is different from the $G UBI token. The guiding principle here is that people should be able to earn rather than buy the influence.
-    
--   Collaborative decision-making takes place via discussions and community calls with the final proposal put up for voting on Snapshot.
-    
--   The tech stack comprises Discourse and Snapshot for governance and voting, Notion for documentation, Telegram, Discord, and Twitter for community engagement and communication, and Safe for the multisig wallet.
-    
--   The org structure is concentric: with a core team (full-time employees hired by the GoodDollar Foundation) as the innermost circle. The next circle consists of initial DAO community members, who hire the next outer circle, and so on.
-    
--   The ultimate goal is to make the DAO responsible for setting the direction of the protocol, which in turn is powered by the community of $G token holders.
-    
+- GoodDollar members need to be active contributors for a minimum of 6 months in order to participate in the DAO.
+- A separate DAO governance token known as GOOD is used for voting and is different from the $G UBI token. The guiding principle here is that people should be able to earn rather than buy the influence.
+- Collaborative decision-making takes place via discussions and community calls with the final proposal put up for voting on Snapshot.
+- The tech stack comprises Discourse and Snapshot for governance and voting, Notion for documentation, Telegram, Discord, and Twitter for community engagement and communication, and Safe for the multisig wallet.
+- The org structure is concentric: with a core team (full-time employees hired by the GoodDollar Foundation) as the innermost circle. The next circle consists of initial DAO community members, who hire the next outer circle, and so on.
+- The ultimate goal is to make the DAO responsible for setting the direction of the protocol, which in turn is powered by the community of $G token holders.
+
 For a deeper understanding of Good Dollar and how they operate, please refer to the conversation with GooD Dollar builders.
 
 [Interview with Anna Stone, Co-Founder, GoodDollar](https://open.spotify.com/episode/7ezQ1uAFzhu8K99fjYgCpr?si=9Px0u77eRJKgsQ-ihPniBg)
@@ -315,7 +278,7 @@ For a deeper understanding of Good Dollar and how they operate, please refer to 
 
 # All for Climate
 
- #### DAO Members Interviewed:
+#### DAO Members Interviewed:
 
 1. Leen Schelfhou, Co-Founder
 2. Xavier Damman, Co-Founder
@@ -328,37 +291,29 @@ Currently, All for Climate DAO (A4C) acts as a ‘project of projects’, intend
 
 Disenchanted with status quo solutions to the climate crisis, the founders see web3 as an innovative, radical real-world experiment.
 
--   Prioritize decentralization in all areas of their DAO.
-    
--   Key ‘commons’/web2 tooling to support collectives
-    
--   Emphasize the importance of human connection throughout the DAO, and influenced deeply by deep democracy and [holacracy](https://www.holacracy.org/).
-    
+- Prioritize decentralization in all areas of their DAO.
+- Key ‘commons’/web2 tooling to support collectives
+- Emphasize the importance of human connection throughout the DAO, and influenced deeply by deep democracy and [holacracy](https://www.holacracy.org/).
+
 The Founders believe that one can be both pro-climate and pro-Web3. It is not a case of either or.
 
 ## How Do They DAO
 
--   The All for Climate DAO collaborates using Discord, where they have created an inviting environment for anyone interested in web3, and climate solutions to partake in discussions and group projects.
-    
--   Onboarding new Discord members into the community is a key focus area, and there are designated onboarding personnel.
-    
--   There is a strong emphasis on co-ownership and decentralization of projects within the DAO. All for Climate enables new project ideas with their own multisig wallets and direction setting. For example, ‘Artists for Climate’ and ‘[Regens Unite](https://twitter.com/regensunite)’, exist as sub-groups within All for Climate DAO, and operate their own budget and multisig.
-    
--   The tech stack is as follows: Discord for community, Twitter and Mirror for external communication, Clarity for work organization, Dework for task management
-    
--   Work is incentivized through task-based bounties, which are earned by members. Contributors are paid in stablecoin DAI.
-    
--   Voting is carried out via community engagement. Proposals are submitted via a Google Doc and discussed/edited through group calls and comments. The approach to decision-making is to ascertain if a proposal is: a) good enough for now or b) safe enough to try, with a feedback loop to ascertain if it working effectively. This decision-making style is inspired by Sociocracy Theory.
-    
--   The DAO issues a token, with no monetary value assigned as yet. It is currently used for keeping a record of contributions. It is expected that contributors will be able to exchange the token for currency at a later date.
-    
+- The All for Climate DAO collaborates using Discord, where they have created an inviting environment for anyone interested in web3, and climate solutions to partake in discussions and group projects.
+- Onboarding new Discord members into the community is a key focus area, and there are designated onboarding personnel.
+- There is a strong emphasis on co-ownership and decentralization of projects within the DAO. All for Climate enables new project ideas with their own multisig wallets and direction setting. For example, ‘Artists for Climate’ and ‘[Regens Unite](https://twitter.com/regensunite)’, exist as sub-groups within All for Climate DAO, and operate their own budget and multisig.
+- The tech stack is as follows: Discord for community, Twitter and Mirror for external communication, Clarity for work organization, Dework for task management
+- Work is incentivized through task-based bounties, which are earned by members. Contributors are paid in stablecoin DAI.
+- Voting is carried out via community engagement. Proposals are submitted via a Google Doc and discussed/edited through group calls and comments. The approach to decision-making is to ascertain if a proposal is: a) good enough for now or b) safe enough to try, with a feedback loop to ascertain if it working effectively. This decision-making style is inspired by Sociocracy Theory.
+- The DAO issues a token, with no monetary value assigned as yet. It is currently used for keeping a record of contributions. It is expected that contributors will be able to exchange the token for currency at a later date.
+
 > Our community currency is mainly used more like equity in a startup -
 > equity that is worth nothing at the beginning but with the hope that
 > at some point it will be worth something - [Xavier Damman, Co-founder
 > All for Climate DAO](https://cryptogood.substack.com/p/all-for-climate-dao-founders-on-building)
 
--   All for Climate DAO is inspired by the book Reinventing Organizations, which is considered a core text for both DAO and Climate movement founders (e.g. Extinction Rebellion, Fridays for Future). The governance design also incorporates principles of sociocracy, holacracy, and deep democracy (in which co-founder Leen is a trained practitioner).
-    
+- All for Climate DAO is inspired by the book Reinventing Organizations, which is considered a core text for both DAO and Climate movement founders (e.g. Extinction Rebellion, Fridays for Future). The governance design also incorporates principles of sociocracy, holacracy, and deep democracy (in which co-founder Leen is a trained practitioner).
+
 For a deeper understanding of how All for Climate DAO operates refer to the conversation with the co-founders.
 
 [Interview with Leen Schelfhou and Xavier Damman, Co-Founders, All for Climate DAO](https://cryptogood.substack.com/p/all-for-climate-dao-founders-on-building)
@@ -366,6 +321,7 @@ For a deeper understanding of how All for Climate DAO operates refer to the conv
 # Regen Network
 
 #### DAO Members Interviewed:
+
 1. Gregory Landua, Co-Founder
 2. Revathi Kollegala, ED Regen Foundation
 
@@ -383,12 +339,9 @@ Additionally, Gregory has spent considerable time working on the ground, creatin
 
 The Regen Network comprises:
 
--   Regen Marketplace powered by the Regen ledger
-    
--   Regen Foundation, a 501(c)(3) nonprofit committed to the inclusion of a diverse community of stakeholders to build the tools of regeneration
-    
--   Regen Network Development, Inc. a US registered C-Corp running the token sale to capitalize the development of Regen Network.
-    
+- Regen Marketplace powered by the Regen ledger
+- Regen Foundation, a 501(c)(3) nonprofit committed to the inclusion of a diverse community of stakeholders to build the tools of regeneration
+- Regen Network Development, Inc. a US registered C-Corp running the token sale to capitalize the development of Regen Network.
 
 Regen Network does not describe itself as an organization, but uses the terms community, commons, movement, public blockchain-based protocol, and of course network. The community is governed by the holders of the governance token. The community determines how the network should function, e.g. developing standards for eco-credits, peer review processes, and so on.
 
@@ -398,26 +351,19 @@ Regen Network is also exploring new ways to bring eco-credits to market: using s
 
 ## How They DAO
 
--   Regen Network is the first decentralized registry program owned and operated by its community of experts and land stewards. Regen Network’s backbone, Regen Ledger, is built on top of public proof of stake blockchain and hence decentralized by design.
-    
+- Regen Network is the first decentralized registry program owned and operated by its community of experts and land stewards. Regen Network’s backbone, Regen Ledger, is built on top of public proof of stake blockchain and hence decentralized by design.
 
--   The Regen token is a form of currency as well as a governance token. It can therefore be used to pay contributors (as currency) and in voting (governance).
-    
--   Regen Foundation has allocated 30% of Regen tokens to aligned stakeholders in Regen Network who otherwise might not have representation - such as farmers, researchers, engineers, indigenous nations, and rights-of-nature projects. An “[EnDAOment](https://regen.foundation/updates-to-endaoment-criteria/)” program rewards communities felt to be doing the best regenerative work, by helping them to raise their voice within the Regen Network. These Community Staking DAOs can delegate their tokens to blockchain validators and receive validator rewards, which they can either re-stake or manage within their own governance circles.
-    
+- The Regen token is a form of currency as well as a governance token. It can therefore be used to pay contributors (as currency) and in voting (governance).
+- Regen Foundation has allocated 30% of Regen tokens to aligned stakeholders in Regen Network who otherwise might not have representation - such as farmers, researchers, engineers, indigenous nations, and rights-of-nature projects. An “[EnDAOment](https://regen.foundation/updates-to-endaoment-criteria/)” program rewards communities felt to be doing the best regenerative work, by helping them to raise their voice within the Regen Network. These Community Staking DAOs can delegate their tokens to blockchain validators and receive validator rewards, which they can either re-stake or manage within their own governance circles.
 
--   The community engages in off-chain polling and voting for decisions on matters that affect the entire network.
-    
--   The DAO structure is nested (i.e. made up of autonomous companies and multiple sovereign sub-DAOs). Regen Network identifies itself as a LAO (Legal Autonomous Organization) as it operates within the legal framework in the United States.
-    
--   Various types of payment options exist, from the native Regen token to stablecoins and fiat. For instance, validators of eco-credits get paid in the Regen token for providing security by default, but also have the option to pick from various other tokens in the “Allow List” (determined by a community [voting process](https://commonwealth.im/regen/discussion/4959-adding-tokens-to-the-regen-ledger-currency-allow-list)).
-    
+- The community engages in off-chain polling and voting for decisions on matters that affect the entire network.
+- The DAO structure is nested (i.e. made up of autonomous companies and multiple sovereign sub-DAOs). Regen Network identifies itself as a LAO (Legal Autonomous Organization) as it operates within the legal framework in the United States.
+- Various types of payment options exist, from the native Regen token to stablecoins and fiat. For instance, validators of eco-credits get paid in the Regen token for providing security by default, but also have the option to pick from various other tokens in the “Allow List” (determined by a community [voting process](https://commonwealth.im/regen/discussion/4959-adding-tokens-to-the-regen-ledger-currency-allow-list)).
 
 For a deeper understanding of how Regen Network operates, please refer to the following conversations with the Regen team:
 
 [Interview with Gregory Landua, Co-Founder Regen Network](https://open.spotify.com/episode/5satVgUeGcFKITyBYtCgCv?si=eWN3jVP-RJyukm7yYpo79w)
 [Interview with Revathi Kolegalla, Executive Director, Regen Foundation](https://open.spotify.com/episode/3ElyOY6XoZjU9HoQgbv43k?si=nhhieWtMQaK1d-IS2kevgw)
-
 
 # Klima DAO
 
@@ -429,18 +375,16 @@ For a deeper understanding of how Regen Network operates, please refer to the fo
 
 Interviewer(s): Darren and Deepa
 
-## What is Klima DAO 
+## What is Klima DAO
 
 Klima is disrupting the traditional [voluntary carbon credit](https://www.mckinsey.com/capabilities/sustainability/our-insights/a-blueprint-for-scaling-voluntary-carbon-markets-to-meet-the-climate-challenge) (VCC) markets using web3 technology. The Klima protocol uses the public blockchain to bring transparency to the current system, which is opaque and inefficient. With the issuance of carbon-backed, algorithmic currency - the KLIMA token ([Klima Token](https://coinmarketcap.com/currencies/klimadao/)) - KlimaDAO aims to further incentivize demand for carbon credits.
 
 As the protocol grows, KlimaDAO aims to solve various critical issues with the status quo:
 
--   Illiquidity: Carbon Credits come in many different varieties, and a multitude of carbon brokers and other middlemen fragment the total liquidity of the market.
-    
--   Opacity: Trades occur often behind closed doors, allowing buyers to circumvent the pricing power of the market.
-    
--   Inefficiency: buying and retiring carbon credits has numerous barriers. By utilizing the Polygon ecosystem, much of this friction is removed for users.
-    
+- Illiquidity: Carbon Credits come in many different varieties, and a multitude of carbon brokers and other middlemen fragment the total liquidity of the market.
+- Opacity: Trades occur often behind closed doors, allowing buyers to circumvent the pricing power of the market.
+- Inefficiency: buying and retiring carbon credits has numerous barriers. By utilizing the Polygon ecosystem, much of this friction is removed for users.
+
 KlimaDAO launched on October 18th, 2021. It was inspired by [Olympus DAO](https://www.olympusdao.finance/) (a decentralized, censorship-resistant reserve currency designed for the Web3 ecosystem) and was both conceptualized and built by a distributed pseudonymous team.
 
 Klima’s reserve currency is backed 1:1 by carbon credits. The protocol rewards users for bridging carbon credits on-chain and bonding them to a treasury (see here to understand [bonding and staking](https://docs.klimadao.finance/klima-dao-ecosystem) works) managed by the DAO. Since its launch, over 25 million carbon credits have been brought on-chain using the bonding mechanism. This represents a significant fraction of carbon credits on the market, and has drawn attention from ReFi natives and legacy carbon market players.
@@ -457,20 +401,14 @@ To date, KlimaDAO has bridged 25.4M tons of carbon credits on-chain, retired 470
 
 ## How Do They DAO
 
--   Klima launched as a DAO from the outset. The core team that formulated the idea and the protocol brought in early contributors to advise on policy decisions, help manage the community, and set up the DAO’s structure and processes.
-    
--   Discord serves as the primary informal medium for community inclusion and discussion.
-    
--   Governance matters are discussed on a [forum](https://forum.klimadao.finance/) prior to voting in [Snapshot](https://snapshot.org/#/klimadao.eth).
-    
--   Multisig wallets are used for treasury management. These multisig wallets are the tools for executing adjustments to policy variables such as bond capacities and reward rate, as well as to distribute funds from the DAO wallet to pay contributors and fund DAO initiatives.
-    
--   KlimaDAO compensates contributors in two ways: monthly payroll (for stable, long-term roles) and bounties (smaller, one-time jobs, such as content writing and software engineering tasks). Bounties are managed by means of a web3-specific tool called Dework that integrates with cryptocurrency wallets for reward distribution.
-    
--   Distributed team and community with remote, asynchronous work practices and a flat organizational structure.
-    
--   The tech stack includes Snapshot for token voting, Discord for community, Notion for organizing work, Figma for UX/UI, Github for code, and Safe (formerly Gnosis Safe) for fund management and protocol access control.
-    
+- Klima launched as a DAO from the outset. The core team that formulated the idea and the protocol brought in early contributors to advise on policy decisions, help manage the community, and set up the DAO’s structure and processes.
+- Discord serves as the primary informal medium for community inclusion and discussion.
+- Governance matters are discussed on a [forum](https://forum.klimadao.finance/) prior to voting in [Snapshot](https://snapshot.org/#/klimadao.eth).
+- Multisig wallets are used for treasury management. These multisig wallets are the tools for executing adjustments to policy variables such as bond capacities and reward rate, as well as to distribute funds from the DAO wallet to pay contributors and fund DAO initiatives.
+- KlimaDAO compensates contributors in two ways: monthly payroll (for stable, long-term roles) and bounties (smaller, one-time jobs, such as content writing and software engineering tasks). Bounties are managed by means of a web3-specific tool called Dework that integrates with cryptocurrency wallets for reward distribution.
+- Distributed team and community with remote, asynchronous work practices and a flat organizational structure.
+- The tech stack includes Snapshot for token voting, Discord for community, Notion for organizing work, Figma for UX/UI, Github for code, and Safe (formerly Gnosis Safe) for fund management and protocol access control.
+
 For a deeper understanding of Klima DAO and how it operates, please refer to the following conversations with Klima Core Team and their DAO documentation.
 
 [Interview with Marcus Aurelius, Core Team Klima DAO](https://open.spotify.com/episode/7KGjUuvAf8r591aV2Zyelm?si=Wwmi-vMpQjytb9Ngzff7IQ)
@@ -480,17 +418,18 @@ For a deeper understanding of Klima DAO and how it operates, please refer to the
 # GITCOIN DAO
 
 #### DAO Members Interviewed:
+
 1.  Kevin Owocki, Co-founder
 2.  Scott Moore, Co-founder
 3.  Ben, Cause Round Lead
 4.  Kris, DAO Ops, and Community Engagement Co-Lead
 5.  Saf, Full-time Contributor
-    
+
 Interviewer(s): Deepa, Impact DAO Media
 
-## What is Gitcoin DAO 
+## What is Gitcoin DAO
 
-[Gitcoin](https://gitcoin.co/) is the largest crowdfunding protocol for web3 open source projects, as well as various other causes. It was founded in November 2017 by Kevin Owocki, Scott Moore, and Juliun Brabon. They chose to transition into a DAO in May 2021. Gitcoin DAO manages the crowdfunding protocol. To date, they have disbursed 72.4 million dollars in funding to 3.4k projects across 15 grant rounds. They run four quarterly grant rounds every year. 
+[Gitcoin](https://gitcoin.co/) is the largest crowdfunding protocol for web3 open source projects, as well as various other causes. It was founded in November 2017 by Kevin Owocki, Scott Moore, and Juliun Brabon. They chose to transition into a DAO in May 2021. Gitcoin DAO manages the crowdfunding protocol. To date, they have disbursed 72.4 million dollars in funding to 3.4k projects across 15 grant rounds. They run four quarterly grant rounds every year.
 
 Gitcoin serves as a go-to platform for web3 entities looking to support their ecosystem’s open-source projects. Impact investing firms like Omidyar Network and philanthropists such as Kimbal Musk are also using Gitcoin’s platform to channel funds into web3 impact projects.
 
@@ -502,39 +441,29 @@ In 2023, Gitcoin is making a big leap by transitioning into a [decentralized gra
 
 ## How Do They DAO
 
--   Gitcoin transitioned from a traditional tech company in 2017 to a DAO in 2021. They are the most mature DAO in our study with well defined systems and processes in place along with over 100 full time contributors on payroll.  
-    
--   Their transition process was slow, with initially only a few departments taking the plunge into the “way of the DAO”. However, as of today, all Gitcoin departments are now part of the DAO.
-    
--   The DAO was launched with the GTC token ([Coinmarketcap GTC Value](https://coinmarketcap.com/currencies/gitcoin/)). The token generated funds needed to sustain and grow operations. The tokenomics also made it possible to transfer 100% of the funds raised on the platform to grantees.
-    
--   The Gitcoin organization structure consists of concentric circles. Anyone that shows interest in Gitcoin (by joining their Discord) becomes part of DAO Citizens (the outermost community circle). The innermost circle comprises Full-Time Contributors (=employees), who are subdivided into workstreams with functional leads. There are four main concentric circles: DAO Citizen, Trust Steward, Part-Time Contributor, and Full-Time Contributors. As of Aug 2022, the Gitcoin DAO had 120 Full-Time Contributors on their payroll.
-    
+- Gitcoin transitioned from a traditional tech company in 2017 to a DAO in 2021. They are the most mature DAO in our study with well defined systems and processes in place along with over 100 full time contributors on payroll.
+- Their transition process was slow, with initially only a few departments taking the plunge into the “way of the DAO”. However, as of today, all Gitcoin departments are now part of the DAO.
+- The DAO was launched with the GTC token ([Coinmarketcap GTC Value](https://coinmarketcap.com/currencies/gitcoin/)). The token generated funds needed to sustain and grow operations. The tokenomics also made it possible to transfer 100% of the funds raised on the platform to grantees.
+- The Gitcoin organization structure consists of concentric circles. Anyone that shows interest in Gitcoin (by joining their Discord) becomes part of DAO Citizens (the outermost community circle). The innermost circle comprises Full-Time Contributors (=employees), who are subdivided into workstreams with functional leads. There are four main concentric circles: DAO Citizen, Trust Steward, Part-Time Contributor, and Full-Time Contributors. As of Aug 2022, the Gitcoin DAO had 120 Full-Time Contributors on their payroll.
 
 > It goes from, being a DAO Citizen, to Trusted [Stewards], then you go
 > to a Part-Time Contributor role and then to a Full-Time Contributor
 > ​​- [Kris, Ops Co-lead Gitcoin DAO](https://cryptogood.substack.com/p/kris-on-the-evolution-of-gitcoin)
 
--   The GTC token is used for financing, governance, and payroll.
-    
--   The DAO employs the delegation voting method for major decisions (e.g. budgets).
-    
--   In delegation voting, power is vested in the hands of Stewards, who are designated to actively participate in governance by preparing/reading thoroughly around each decision.
-    
--   GTC token holders can delegate their votes to these Stewards as they are well-versed in the issues and can make informed decisions.
-    
--   Commonly used tools at Gitcoin include Discord, Discourse, Snapshot (for off-chain voting), and Tally (for on-chain voting).
-    
--   ​​The Tally vote is the autonomous part of the Gitcoin DAO. That is, if the vote passes, then funds will automatically flow from the Gitcoin DAO multisig to the relevant workstream’s multisig.
-    
--   As part of the move towards complete decentralization, the two founders Kevin Owocki and Scoot Moore have delegated the power to the DAO by stepping down from Gitcoin leadership.
-    
+- The GTC token is used for financing, governance, and payroll.
+- The DAO employs the delegation voting method for major decisions (e.g. budgets).
+- In delegation voting, power is vested in the hands of Stewards, who are designated to actively participate in governance by preparing/reading thoroughly around each decision.
+- GTC token holders can delegate their votes to these Stewards as they are well-versed in the issues and can make informed decisions.
+- Commonly used tools at Gitcoin include Discord, Discourse, Snapshot (for off-chain voting), and Tally (for on-chain voting).
+- ​​The Tally vote is the autonomous part of the Gitcoin DAO. That is, if the vote passes, then funds will automatically flow from the Gitcoin DAO multisig to the relevant workstream’s multisig.
+- As part of the move towards complete decentralization, the two founders Kevin Owocki and Scoot Moore have delegated the power to the DAO by stepping down from Gitcoin leadership.
+
 > There is no limit to what you can accomplish if you don't care who
 > takes the credit! In the DAO space, you have to be willing to let
 > things happen without requiring that you're always at the center of
 > it. - [Scott Moore, Co-Founder, Gitcoin](https://open.spotify.com/episode/32iDz0m9R6x3gWgyvTwAeL?si=o1rUHarkSueQRAF1sS3hTw)
 
--   Gitcoin [governance matters](https://gov.gitcoin.co/c/governancevision/6) are openly discussed on Discourse. 
+- Gitcoin [governance matters](https://gov.gitcoin.co/c/governancevision/6) are openly discussed on Discourse.
 
 For a deeper understanding of how Gitcoin DAO operates, refer to the following conversations with Gitcoin Founders and Builders:
 
@@ -577,39 +506,33 @@ They also conduct IRL events in various cities and colleges globally to create a
 > [Joshua, Dream DAO Founding Builder from Mexico](https://cryptogood.substack.com/p/from-the-classroom-to-the-cryptosphere)
 
 ## How Do They DAO
--   Co-creation of the DAO by engaging students from Civis Unplugged to help with ideation, structure, and launch of Dream DAO. The students who contributed to the formation of Dream DAO are now referred to as ‘Founding Builders’.
-    
--   The DAO is remote and distributed, with students from all over the world. They collaborate on Discord and use it as a primary platform for ‘Learning Together’ sessions and connecting with mentors.
-    
--   The DAO uses NFTs to represent membership, with students being awarded free NFTs while the Champions must buy them from the NFT marketplace OpenSea.
-    
--   The DAO votes on all matters and uses NFTs (instead of fungible tokens) for voting and Snapshot (a decentralized off-chain voting platform) to cast votes.
-    
--   Operations are divided into workstreams, with each workstream led by a Builder (student) and a Champion (mentor). The structure is fluid and changes with every season.
-    
--   The DAO does not issue tokens. Because of the central role of young members, the target governance model is merit-based rather than token-weighted (i.e. not dependent on how much money you have spent).
-    
--   The tech stack comprises: Discord for collaboration, Notion for documentation, Snapshot for voting, and Clarity for task management.
-    
--   The co-founder Gary Sheng, who largely stewarded the DAO, has stepped down recently with the intention of making the DAO more decentralized and autonomous (i.e. not remain dependent on one individual for functioning).
-    
+
+- Co-creation of the DAO by engaging students from Civis Unplugged to help with ideation, structure, and launch of Dream DAO. The students who contributed to the formation of Dream DAO are now referred to as ‘Founding Builders’.
+- The DAO is remote and distributed, with students from all over the world. They collaborate on Discord and use it as a primary platform for ‘Learning Together’ sessions and connecting with mentors.
+- The DAO uses NFTs to represent membership, with students being awarded free NFTs while the Champions must buy them from the NFT marketplace OpenSea.
+- The DAO votes on all matters and uses NFTs (instead of fungible tokens) for voting and Snapshot (a decentralized off-chain voting platform) to cast votes.
+- Operations are divided into workstreams, with each workstream led by a Builder (student) and a Champion (mentor). The structure is fluid and changes with every season.
+- The DAO does not issue tokens. Because of the central role of young members, the target governance model is merit-based rather than token-weighted (i.e. not dependent on how much money you have spent).
+- The tech stack comprises: Discord for collaboration, Notion for documentation, Snapshot for voting, and Clarity for task management.
+- The co-founder Gary Sheng, who largely stewarded the DAO, has stepped down recently with the intention of making the DAO more decentralized and autonomous (i.e. not remain dependent on one individual for functioning).
+
 For a deeper understanding of how Dream DAO operates, refer to the conversation with Dream DAO Founders and Builders.
 
 [Interview with Madison, Co-founder Dream DAO](https://cryptogood.substack.com/p/19-year-old-co-founder-on-building)
 [Interview with Joshua, Fellow Builder Dream DAO](https://cryptogood.substack.com/p/from-the-classroom-to-the-cryptosphere)
-[How we DAO  by Dream DAO](https://dream-dao.gitbook.io/how-we-dao-dream-dao/)
+[How we DAO by Dream DAO](https://dream-dao.gitbook.io/how-we-dao-dream-dao/)
 
 # Commons Stack
 
- #### DAO Members Interviewed:
+#### DAO Members Interviewed:
 
- 1. Lívia Deschermayer, Cultural Build Lead
- 2. Tamara Helenius, Program Manager
- 3. Ivy Bagay, Communications and Legal Lead
+1.  Lívia Deschermayer, Cultural Build Lead
+2.  Tamara Helenius, Program Manager
+3.  Ivy Bagay, Communications and Legal Lead
 
-Interviewer(s):  Pauline de Mortain
+Interviewer(s): Pauline de Mortain
 
-  ## What is Commons Stack
+## What is Commons Stack
 
 Founded in 2019, Commons Stack helps communities dedicated to public goods deploy regenerative microeconomies by providing open-source web3 toolkits. In other words, Commons Stack makes it easier for groups of people to manage shared resources - or ‘commons’. They create digital tools to help people fund, manage, and govern these ‘commons’ together.
 
@@ -644,4 +567,3 @@ Interviews releasing soon on [All About Impact DAOs Podcast](https://open.spotif
 Interview with Lívia Deschermayer, Cultural Build Lead
 Interview with Tamara Helenius, Program Manager
 Interview with Ivy Bagay, Communications and Legal Lead
-

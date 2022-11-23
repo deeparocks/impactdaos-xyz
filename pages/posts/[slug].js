@@ -10,7 +10,7 @@ export default function Post({ post }) {
       image={post.image}
       >
         <div className="w-full md:w-6/12">
-         <article className="prose lg:prose-xl" 
+         <article className="prose prose-zinc" 
          dangerouslySetInnerHTML={{__html: post.content}} />
          </div>
     </Layout>

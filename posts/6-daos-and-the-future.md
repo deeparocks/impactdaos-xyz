@@ -1,8 +1,9 @@
 ---
-chapter: 5
-title: Closing Notes
-description: The future of work for the individual and Collective 
+chapter: 6
+title: DAOs and the Future
+description: The future of work for the individual and Collective
 ---
+
 # Closing Notes
 
 Peaking at the future of doing good is exciting! From voluntary carbon credits to UBI, we’ve covered the present of mature ImpactDAOs. This is a part of a larger conversation around what the future will look like and, specifically, what the future of work will be. The future of work for the individual and collective is distributed, coordinated, and self-sovereign individuals solving the brokenness of the world together. The way to do this is through ImpactDAOs.
@@ -29,11 +30,10 @@ It’s clear that this is just the beginning. We’ve covered 12 mature ImpactDA
 
 [Reinventing Organizations by Frederic Laloux](https://www.reinventingorganizations.com/)
 
- [Platform Coops and DAOs and Mutual Aid: Oh My!](https://www.maxgrok.com/posts/daos-coops-mutual-aid)
-    
- [The Future is Cooperative](https://www.maxgrok.com/posts/future-is-cooperative)
-    
+[Platform Coops and DAOs and Mutual Aid: Oh My!](https://www.maxgrok.com/posts/daos-coops-mutual-aid)
+
+[The Future is Cooperative](https://www.maxgrok.com/posts/future-is-cooperative)
+
 [The Future is Fun](https://www.maxgrok.com/posts/future-is-fun)
 
-On how to start an Impact DAO, reach out to Impact DAO Media on [Twitter](https://twitter.com/home) 
-
+On how to start an Impact DAO, reach out to Impact DAO Media on [Twitter](https://twitter.com/home)

@@ -1,5 +1,5 @@
 ---
-chapter: 2
+chapter: 3
 title: What is an Impact DAO
 description: Defining Impact DAO, advantages over nonprofits and why they are the future
 ---

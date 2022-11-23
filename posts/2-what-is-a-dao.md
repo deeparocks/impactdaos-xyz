@@ -1,5 +1,5 @@
 ---
-chapter: 3
+chapter: 2
 title: What is a DAO? A Crash Course
 description: The aim in this initial chapter is to communicate a clear definition of the word DAO
 ---
