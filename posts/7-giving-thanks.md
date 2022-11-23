@@ -10,14 +10,11 @@ The Impact DAOs book is produced by a global team of collaborators on the intern
 
 Impact DAO Media is grateful to the following contributors and sponsors.
 
-The Impact DAOs book is produced by a global team of collaborators on the internet. We formed a DAO ([Impact DAO Media](https://twitter.com/impactdaos)) to study DAOs.
-
-Impact DAO Media is grateful to the following contributors and sponsors.
 
 ### Book Publishing
 
 [Matthew](https://twitter.com/Value_Strat), Writer & Editor in Chief, Korea 🇰🇷
-[Deepa](https://twitter.com/deeparocks), Writer & Editor, Canada 🇨🇦
+[Deepa](https://twitter.com/deeparocks), Writer, Editor & Online Publishing, Canada 🇨🇦
 [Max Goodman](https://twitter.com/maxxgrok), Writer & Editor, USA 🇺🇸
 
 ### Branding and Visuals
