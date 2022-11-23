@@ -40,6 +40,7 @@ Katerina,](https://twitter.com/katerinabohlec) Analysis, Spain 🇪🇸
 [Pauline de Mortain](https://twitter.com/Poplinecreation), Builder Interviews, France 🇫🇷
 [Pedro](https://twitter.com/parrachia), Case Studies & Review, Brazil 🇧🇷
 [Sandeep](https://twitter.com/sandeepdas9179), Editor, Case Studies & Marketing Strategist, UK 🇬🇧
+[Sardius](https://twitter.com/0xSardius), Glossary Chapter, USA 🇺🇸
 [Siddhearta](https://twitter.com/0xSiddhearta), Editor & BanklessDAO Liaison, USA 🇺🇸
 [Yvonne](https://twitter.com/tranimal), Builder Interviews, Interview Questionnaire & Selection, USA 🇺🇸
 
@@ -58,8 +59,9 @@ Deepa, Accounts, Operations & Coordination Lead, Canada 🇨🇦
 [Sardius](https://twitter.com/0xSardius), Accounts, Operations & Project Lead, USA 🇺🇸
 Yvonne, Accounts, Operations & Project Lead, USA 🇺🇸
 
-## Impact DAOs Research & Book Donors
-
+## Friends and Donors
+[Kevin Owocki](https://twitter.com/deeparocks/status/1532881910673747968?s=20) for the A+ team 
 [Gitcoin Grants Round 14 Donors](https://twitter.com/deeparocks/status/1550168023968796673?s=20)
 [Filecoin Foundation](https://twitter.com/FilFoundation)
 [Refi Podcast](https://twitter.com/ReFiPodcast/status/1582825215469682688?s=20)
+Our Twitter Frens for cheering us all along 🙏
