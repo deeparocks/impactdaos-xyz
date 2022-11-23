@@ -1,14 +1,15 @@
 ---
 chapter: 4
-title: Case Studies
+title: Impact DAOs Case Studies
 description: We profile 12 Impact DAOs and how they DAO
 ---
 
 This chapter showcases the 12 Impact DAOs that are part of our study. We begin with Impact DAOs addressing societal issues, followed by the ones engaged in climate solutions, and then the meta Impact DAOs providing funding and assistance to social and climate Impact DAOs.
 
-The Impact DAOs showcase provides an overview of who they are and how they DAO, with links to 1:1 interviews with the builders for deeper insights into their DAO way of making an impact.
+The Impact DAOs case studies provides an overview of who they are, their impact and how they DAO, with links to 1:1 interviews with the builders for deeper insights into their DAO way of making an impact.
 
-# Human DAO
+
+# 1. Human DAO
 
 #### DAO Members Interviewed
 
@@ -34,7 +35,7 @@ It eventually struck Christoper that this model could be parlayed into generatin
 
 The system is therefore predicated on a fair exchange of value: a PANFT holder gets to save time and effort on routine tasks, while the PA can generate a regular income (e.g. $400 per month). In certain countries such as Argentina, an income of this size, paid in stablecoin, is preferable in many ways to a conventional job.
 
-The aim of HumanDAO in the broadest sense is to use the disruptive power of Web3 to solve the problems faced by humanity. In the words of its founder [Christopher Chase](https://twitter.com/Chris2pherChase), it’s like a charity on steroids. To date Human DAO has impacted the lives of 1000 people in the Philippines and are bullish on their new product launch, PANFT providing opportunities to people in the emerging markets.
+The aim of HumanDAO in the broadest sense is to use the disruptive power of Web3 to solve the problems faced by humanity. In the words of its founder [Christopher Chase](https://twitter.com/Chris2pherChase), it’s like a charity on steroids. To date Human DAO has impacted the lives of 1000 people in the Philippines and are bullish on their new product launch, PANFT providing income opportunities to people in the emerging markets.
 
 ## How Do They DAO
 
@@ -49,7 +50,8 @@ For a deeper understanding on how Human DAO operates refer to the conversation w
 [Interview with Adam, Core Team Contributor](https://open.spotify.com/episode/3IliXEMkBTa3WoLA2QNvfH?si=vdfhi0XvRzaWehUqekOJ-g)
 [Interview with Kyla, Core Team Contributor](https://open.spotify.com/episode/1vFn5b1mqG2ByQQR6TlVpb?si=jyDccgpxRq-HWcDQG-CNUw)
 
-# Impact Market
+
+# 2. Impact Market
 
 #### DAO Members Interviewed:
 
@@ -69,7 +71,7 @@ Impact Market recently renamed their Poverty Alleviation Protocol to [Human Empo
 
 As a young organization founded in late 2020, Impact Market has had a tremendous impact. They have distributed UBI to over 40,000 people across 269 communities in 35+ countries. The UN WFP is partnering with them in many hard to reach places such as Afghanistan to get the UBI people via the phone
 
-## How Do they DAO
+## How Do They DAO
 
 - Launched as a DAO in late 2021 (a year after the protocol) with the idea of DAO and protocol controlled by the token holders. The implication is that donors can now participate in DAO governance matters. Anyone that donates to Impact Market earns a [$PACT token](https://medium.com/impactmarket/introducing-pact-governance-token-airgrab-impact-farming-4e99c899701e) that entitles them to governance matters of the DAO for instance which communities should Impact Market onboard next for the UBI, donors can now have a say as they are part of the organization.
 - Tokenomics to be self-sustainable with $PACT token providing both liquidity and serving as a governance token. ([$PACT](https://docs.impactmarket.com/impactmarket-apps-1/usdpact))
@@ -82,7 +84,7 @@ For a deeper understanding on Impact Market and how they operate refer to the co
 
 [Interview with Marco, Co-Founder Impact Market](https://open.spotify.com/episode/6VFUN3lOMKY26wF37IUv5G?si=G2JRjgdbT0iBXiyY_tXdbg)
 
-# Ukraine DAO
+# 3. Ukraine DAO
 
 #### DAO Members Interviewed:
 
@@ -104,8 +106,6 @@ To date Ukraine DAO has:
 - Assisted other disaster relief DAOs - e.g. helping to set up [Iran DAO](https://mobile.twitter.com/iran__dao).
 - Participated in the [Kyiv Tech Summit](https://mobile.twitter.com/KyivTechSummit) held in the middle of the war torn city. The tech summit was attended by Vitalik Buterin, Founder of Ethereum.
 
-https://twitter.com/KyivTechSummit/status/1568616689083842562?s=20
-
 UkraineDAO demonstrates it is possible for a DAO to get up and running not only in response to, but ahead of, a disaster. It also shows how quickly a DAO can adapt to the changing situation that so many ongoing crises present.
 
 “The beauty of a DAO,” says Alona, “Which is not possible with a traditional charity, is that we adjust to Ukraine and to its needs immediately.”
@@ -126,7 +126,8 @@ For a deeper understanding of Ukraine DAO and how they operate, refer to the ful
 [Interview with Alona, Founder of Ukraine DAO](https://cryptogood.substack.com/p/ukraine-dao-founder-spills-the-truth)
 [Deep Dive Into Ukraine DAO - A Model for Future Nonprofits](https://cryptogood.substack.com/p/deep-dive-into-ukraine-dao-a-model)
 
-# Pact DAO
+
+# 4. Pact DAO
 
 #### DAO Members Interviewed:
 
@@ -141,7 +142,7 @@ Pact DAO is a New York City-based DAO building hyper-local mutual aid and neighb
 
 Pact continues to raise funds in both crypto and fiat to support various mutual aid programs. They see great potential in web3 tools for collaboration and coordination (multi-sig, Snapshot voting, etc.) giving agency to local leaders and making citizen participation easy. They are building a digital resource library to educate and onboard grassroots organizers on web3 tooling. Additionally, they conduct IRL events in NYC to connect with the community and to socialize the idea of using web3 for coordination and coalition building.
 
-Currently, Pact DAO defines its impact in terms of relationships formed with grassroots leaders and organizations and in having healthy, open conversations around web3 and crypto as a tool for coordination.
+Currently, Pact DAO defines its impact in terms of relationships formed with grassroots leaders and organizations and in having healthy, open conversations around web3 and crypto as a tool for coordination. They have distriburted $15,000 is mutual aid to date.
 
 ## How Do They DAO
 
@@ -169,13 +170,13 @@ For a deeper understanding of how Pact DAO operates, please refer to the convers
 [Interview with Marisa Rando, Founder](https://open.spotify.com/episode/2LLS7M3T1hIQkjVgCepVJW?si=id3tWyYfSdCCksE68KTJrA)
 [Interview with Alfredo Gil, Core Team Contributor](https://cryptogood.substack.com/p/the-dao-contributor)
 
-# Proof Of Humanity
+# 5. Proof Of Humanity
 
 ### DAO Members Interviewed:
 
 1. Clement, CTO of Kleros ( the team that developed the POH Protocol)
 2. Federico, Founder and CEO of Kleros
-3. Juanu, Core Developer, Klero
+3. Juanu, Developer, Klero
 
 Interviewer(s): Pauline de Mortain
 
@@ -215,13 +216,15 @@ For a deeper understanding of Proof of Humanity and the DAO, please refer to the
 
 Releasing soon on [All About Impact DAOs Podcast](https://open.spotify.com/show/3Mpb4Kp19RU14XJVMTumhi)
 
-Interview with Juanu, Core Developer Kleros
+[Interview with Juanu, Developer, Kleros](https://open.spotify.com/episode/2Cmt2oAMsLxzlWDVRINdzV?si=04vTvQsMRC6gkG7ii72TXg)
 Interview with Clement, CTO Kleros  
 Interview with Federico, Founder Kleros
 
 [POH presentation at DEVCON Bogota Oct 2022 by Santi, Democracy Earth](https://youtu.be/zZJz1gBNxLI)
 
-# GoodDollar
+
+
+# 6. GoodDollar
 
 #### DAO Members Interviewed:
 
@@ -276,7 +279,8 @@ For a deeper understanding of Good Dollar and how they operate, please refer to 
 [Interview with Jessica Salama, Core Team, GoodDollar  
 ](https://open.spotify.com/episode/12mmGGGcJ8DgQs5dtnso7N?si=mDigUttaRGO3YJ26pw17wg)
 
-# All for Climate
+
+#7. All for Climate DAO
 
 #### DAO Members Interviewed:
 
@@ -318,7 +322,7 @@ For a deeper understanding of how All for Climate DAO operates refer to the conv
 
 [Interview with Leen Schelfhou and Xavier Damman, Co-Founders, All for Climate DAO](https://cryptogood.substack.com/p/all-for-climate-dao-founders-on-building)
 
-# Regen Network
+# 8. Regen Network
 
 #### DAO Members Interviewed:
 
@@ -349,6 +353,9 @@ Their users are not typical app developers, but rather land stewards and scienti
 
 Regen Network is also exploring new ways to bring eco-credits to market: using smartphones, satellite technology, or by simply recording observations on paper and taking a picture of it. They are always on the lookout for developers, hobbyists, and prosumers to help them build this vision. While many are based in Latin America, contributors to the network span the globe. This diversity of membership adds to the resilience of the ecosystem.
 
+In 2020, Regen Network sold and retired over 120,000 [CarbonPlus Grasslands](https://library.regen.network/v/methodology-library/methodology-for-ghg-and-co-benefits-in-grazing-systems) credits to [Microsoft](https://www.microsoft.com/) on the Regen Network blockchain. Since then, they’ve partnered with fellow [Cosmos](https://cosmos.network/) blockchain protocols such as [Osmosis](https://osmosis.zone/), [Stargaze](https://www.stargaze.zone/), and [Cheqd](https://cheqd.io/) to become carbon-neutral. The new Regen Marketplace launched in October, 2022 has 20,647 eco-credits tradeable, 4,771 retired,  and 25,419 created to date. 
+
+
 ## How They DAO
 
 - Regen Network is the first decentralized registry program owned and operated by its community of experts and land stewards. Regen Network’s backbone, Regen Ledger, is built on top of public proof of stake blockchain and hence decentralized by design.
@@ -365,7 +372,9 @@ For a deeper understanding of how Regen Network operates, please refer to the fo
 [Interview with Gregory Landua, Co-Founder Regen Network](https://open.spotify.com/episode/5satVgUeGcFKITyBYtCgCv?si=eWN3jVP-RJyukm7yYpo79w)
 [Interview with Revathi Kolegalla, Executive Director, Regen Foundation](https://open.spotify.com/episode/3ElyOY6XoZjU9HoQgbv43k?si=nhhieWtMQaK1d-IS2kevgw)
 
-# Klima DAO
+
+
+# 9. Klima DAO
 
 ### DAO Members Interviewed:
 
@@ -412,10 +421,10 @@ To date, KlimaDAO has bridged 25.4M tons of carbon credits on-chain, retired 470
 For a deeper understanding of Klima DAO and how it operates, please refer to the following conversations with Klima Core Team and their DAO documentation.
 
 [Interview with Marcus Aurelius, Core Team Klima DAO](https://open.spotify.com/episode/7KGjUuvAf8r591aV2Zyelm?si=Wwmi-vMpQjytb9Ngzff7IQ)
-
 [Klima DAO Governance Framework](https://docs.klimadao.finance/dao/governance-framework)
 
-# GITCOIN DAO
+
+# 10. GITCOIN DAO
 
 #### DAO Members Interviewed:
 
@@ -429,7 +438,7 @@ Interviewer(s): Deepa, Impact DAO Media
 
 ## What is Gitcoin DAO
 
-[Gitcoin](https://gitcoin.co/) is the largest crowdfunding protocol for web3 open source projects, as well as various other causes. It was founded in November 2017 by Kevin Owocki, Scott Moore, and Juliun Brabon. They chose to transition into a DAO in May 2021. Gitcoin DAO manages the crowdfunding protocol. To date, they have disbursed 72.4 million dollars in funding to 3.4k projects across 15 grant rounds. They run four quarterly grant rounds every year.
+[Gitcoin](https://gitcoin.co/) is the largest crowdfunding protocol for web3 open source projects, as well as various other causes. It was founded in November 2017 by Kevin Owocki and Scott Moore. They chose to transition into a DAO in May 2021. Gitcoin DAO manages the crowdfunding protocol. To date, they have disbursed 72.4 million dollars in funding to 3.4k projects across 15 grant rounds. They run four quarterly grant rounds every year.
 
 Gitcoin serves as a go-to platform for web3 entities looking to support their ecosystem’s open-source projects. Impact investing firms like Omidyar Network and philanthropists such as Kimbal Musk are also using Gitcoin’s platform to channel funds into web3 impact projects.
 
@@ -472,7 +481,9 @@ For a deeper understanding of how Gitcoin DAO operates, refer to the following c
 [Interview with Kris, DAO Ops, and Community Engagement Co-Lead](https://cryptogood.substack.com/p/kris-on-the-evolution-of-gitcoin)
 [Interview with Saf, Full Time Contributor](https://cryptogood.substack.com/p/a-multi-dao-contributor-shares-everything)
 
-# DREAM DAO
+
+
+# 11. DREAM DAO
 
 #### DAO Members Interviewed:
 
@@ -522,7 +533,9 @@ For a deeper understanding of how Dream DAO operates, refer to the conversation 
 [Interview with Joshua, Fellow Builder Dream DAO](https://cryptogood.substack.com/p/from-the-classroom-to-the-cryptosphere)
 [How we DAO by Dream DAO](https://dream-dao.gitbook.io/how-we-dao-dream-dao/)
 
-# Commons Stack
+
+
+# 12. Commons Stack
 
 #### DAO Members Interviewed:
 
