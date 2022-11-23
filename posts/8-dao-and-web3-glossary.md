@@ -4,7 +4,8 @@ title: DAO and Web3 Glossary
 description: Key terms and concepts in this space
 ---
 
-Glossary
+# Glossary 
+[by Sardius](https://twitter.com/0xSardius)
 
 1.  **Smart Contract** - “A smart contract, like any contract, establishes the terms of an agreement. But unlike a traditional contract, a smart contract’s terms are executed as code running on a blockchain like Ethereum. Smart contracts allow developers to build apps that take advantage of blockchain security, reliability, and accessibility while offering sophisticated peer-to-peer functionality — everything from loans and insurance to logistics and gaming.” Like a vending machine, a smart contract has a guaranteed result once it runs. For DAOs, smart contracts ensure that any DAO processes executing on a blockchain cannot be interfered with by a third-party. Smart contracts are particularly important for DAOs because they ensure shared treasury and vote management will fail if they are tampered with.
 
