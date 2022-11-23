@@ -14,6 +14,7 @@ Impact DAOs offer a radically new way of organizing, fundraising and allocating 
 
 Powered by web3 technology (i.e. blockchain), smart contracts and decentralized apps, DAOs can achieve scale, impact and efficiency that is not possible with the prevailing traditional nonprofit model. Many have already demonstrated large-scale reach.
 
+https://twitter.com/deeparocks/status/1586045144100659200?s=20
 
 ## Nonprofits: The Status Quo
 

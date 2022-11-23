@@ -34,7 +34,7 @@ Precise definitions differ, but here is our version, based on the qualitative re
 
 This graphic, again from Aragon, gives a nifty overview of the key points of difference between DAOs and traditional corporations.
 
-**![](https://lh6.googleusercontent.com/r87Y1FvNaHmC1flLsNrK8gXRbyT6KVkivwidGshZg9doqGgBqORgZvwJAhMPGP1HXQX36PipmCTt5X8MM8SD2gprvic3RdM7We1lUKsvSvEJYmiHOHxpEeAD3NcHphZJTWu1uFgmebc1-S-gJ0EjlitEcig7uECtiReUSIAminXluEK0ZzAU1IpN2x79)**
+**![Traditional Org. Vs DAO](/posts/traditional-org-vs-dao.png)**
 
 ### More Detailed Definition
 
