@@ -1,6 +1,6 @@
 ---
 chapter: 4
-title: Impact DAOs Case Studies
+title: Impact DAO Case Studies
 description: We profile 12 Impact DAOs and how they DAO
 ---
 
