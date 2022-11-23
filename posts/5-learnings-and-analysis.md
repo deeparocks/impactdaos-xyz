@@ -118,7 +118,7 @@ We are thankful to the interviewees. They shared their insights openly and gener
 
 ## Synthesis of Findings Impact DAOs Research
 
-1.  **Goals of Impact DAOs?**
+**1.  Goals of Impact DAOs**
 
 Improving the quality of life is the overarching mission of Impact DAOs.They achieve this through actions targeted at improving the health of the planet or the people.
 
@@ -165,7 +165,7 @@ The tactical ‘how’ is revealed in a DAO’s tooling choices. Most Impact DAO
 
 | Function                             | Tools                                |
 | ------------------------------------ | ------------------------------------ |
-| Collaboration                        | Discord,Notion,Google Docs           |
+| Collaboration                        | Discord, Notion, Google Docs         |
 | Community Engagement & Communication | Telegram, Discord, Twitter           |
 | Voting                               | Discourse, Snapshot                  |
 | Fund Management                      | Safe (formerly known as Gnosis Safe) |
