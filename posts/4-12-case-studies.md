@@ -280,7 +280,7 @@ For a deeper understanding of Good Dollar and how they operate, please refer to 
 ](https://open.spotify.com/episode/12mmGGGcJ8DgQs5dtnso7N?si=mDigUttaRGO3YJ26pw17wg)
 
 
-#7. All for Climate DAO
+**#7. All for Climate DAO**
 
 #### DAO Members Interviewed:
 
@@ -424,7 +424,7 @@ For a deeper understanding of Klima DAO and how it operates, please refer to the
 [Klima DAO Governance Framework](https://docs.klimadao.finance/dao/governance-framework)
 
 
-# 10. GITCOIN DAO
+# 10. Gitcoin DAO
 
 #### DAO Members Interviewed:
 
