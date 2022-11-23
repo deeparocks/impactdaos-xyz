@@ -1,14 +1,10 @@
 ---
 chapter: 3
 title: What is an Impact DAO
-description: Defining Impact DAO, advantages over nonprofits and why they are the future
+description: Defining Impact DAOs, advantages over nonprofits and why they are the future
 ---
 
-> DAOs are less of a crypto thing and more of a web3 thing. I think
-> web3 has so much potential in solving nonprofit inefficiencies -
-> [Kimbal Musk, Founder Big Green DAO]
-
-(https://podcasts.apple.com/ca/podcast/exploring-big-green-dao-with-kimbal-musk/id1271691895?i=1000580293635)
+DAOs are less of a crypto thing and more of a web3 thing. I think web3 has so much potential in solving nonprofit inefficiencies - [Kimbal Musk, Founder Big Green DAO](https://podcasts.apple.com/ca/podcast/exploring-big-green-dao-with-kimbal-musk/id1271691895?i=1000580293635)
 
 # What is an Impact DAO
 
@@ -16,13 +12,12 @@ An Impact DAO is focused on creating positive externalities. In other words, its
 
 Impact DAOs offer a radically new way of organizing, fundraising and allocating resources for causes. They are a new operating framework for our digital lives.
 
-Powered by web3 technology (i.e. blockchain), smart contracts and decentralized apps, DAOs can achieve scale, impact and efficiency that is not possible with the prevailing, traditional nonprofit model. Many have already demonstrated large-scale reach.
+Powered by web3 technology (i.e. blockchain), smart contracts and decentralized apps, DAOs can achieve scale, impact and efficiency that is not possible with the prevailing traditional nonprofit model. Many have already demonstrated large-scale reach.
 
-[https://twitter.com/deeparocks/status/1586045144100659200?s=20](https://twitter.com/deeparocks/status/1586045144100659200?s=20)
 
 ## Nonprofits: The Status Quo
 
-Public trust is the currency of the nonprofit sector. And unfortunately, trust in nonprofits is failing. Only 56% of Americans trust nonprofits, according to 2022 research conducted by [Edleman Data and Intelligence in partnership with Independent Sector](https://independentsector.org/wp-content/uploads/2022/07/Trust-Report-Independent-Sector-May-19-2022-1.pdf)
+Public trust is the currency of the nonprofit sector. And unfortunately, trust in nonprofits is failing. Only 56% of Americans trust nonprofits, according to 2022 research conducted by [Edleman Data and Intelligence in partnership with Independent Sector.](https://independentsector.org/wp-content/uploads/2022/07/Trust-Report-Independent-Sector-May-19-2022-1.pdf)
 
 Simply put, the standard nonprofit model is no longer adequate to meet the needs of the present day.
 
@@ -127,7 +122,7 @@ There are already many examples of nonprofits that have transitioned into a DAO 
 
 3. Pact DAO, a US 501c3 nonprofit founded in 2020 to provide hyper-local mutual support in NYC, made a full transition to the DAO model in 2021. Pact DAO is one of the first organizations to amend its bylaws to be DAO-friendly.
 
-4. Gitcoin, a web3 crowdfunding platform that started as a traditional tech company in 2017, transitioned to a DAO structure in May 2021.
+4. Gitcoin, a web3 crowdfunding protocol that started as a traditional tech company in 2017, transitioned to a DAO structure in May 2021.
 
 > Big Green DAO is challenging the process of traditional philanthropy,
 > ensuring funded work is high-impact and community-led by making
