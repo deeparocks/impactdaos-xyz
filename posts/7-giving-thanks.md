@@ -36,7 +36,7 @@ Deepa, Builder Interviews, Interview Questionnaire & Selection, Canada 🇨🇦
 [Harsha](https://twitter.com/karanth_harsha), Outreach, Interviews, Transcription & Strategy, India 🇮🇳
 [Joshua](https://twitter.com/astrocruz_s), Intern, Transcription & Miscellaneous, Mexico 🇲🇽
 [Kim](https://www.linkedin.com/in/kimmagsig/), Transcription, Case Studies & Analysis, USA 🇺🇸
-Katerina,](https://twitter.com/katerinabohlec) Analysis, Spain 🇪🇸
+[Katerina](https://twitter.com/katerinabohlec), Analysis, Spain 🇪🇸
 [Pauline de Mortain](https://twitter.com/Poplinecreation), Builder Interviews, France 🇫🇷
 [Pedro](https://twitter.com/parrachia), Case Studies & Review, Brazil 🇧🇷
 [Sandeep](https://twitter.com/sandeepdas9179), Editor, Case Studies & Marketing Strategist, UK 🇬🇧
@@ -44,7 +44,7 @@ Katerina,](https://twitter.com/katerinabohlec) Analysis, Spain 🇪🇸
 [Siddhearta](https://twitter.com/0xSiddhearta), Editor & BanklessDAO Liaison, USA 🇺🇸
 [Yvonne](https://twitter.com/tranimal), Builder Interviews, Interview Questionnaire & Selection, USA 🇺🇸
 
-### Audio Production
+### Podcast Production
 
 [Alritedi](https://twitter.com/AlriteDi), Podcast Editor, USA 🇺🇸
 [WinVerse](https://twitter.com/TagboWinner), Podcast Editor, Nigeria 🇳🇬
