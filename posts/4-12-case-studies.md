@@ -483,7 +483,7 @@ For a deeper understanding of how Gitcoin DAO operates, refer to the following c
 
 
 
-# 11. DREAM DAO
+# 11. Dream DAO
 
 #### DAO Members Interviewed:
 
