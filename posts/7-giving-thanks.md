@@ -59,9 +59,16 @@ Deepa, Accounts, Operations & Coordination Lead, Canada 🇨🇦
 [Sardius](https://twitter.com/0xSardius), Accounts, Operations & Project Lead, USA 🇺🇸
 Yvonne, Accounts, Operations & Project Lead, USA 🇺🇸
 
+### Project Director
+
+[Deepa](https://twitter.com/deeparocks) 🇨🇦
+
 ## Friends and Donors
 [Kevin Owocki](https://twitter.com/deeparocks/status/1532881910673747968?s=20) for the A+ team 
+[John Ellison](https://twitter.com/climateXcrypto) for unwavering support
+[Marc Johnson](https://twitter.com/marcjohnson518) for grant assistance
+
 [Gitcoin Grants Round 14 Donors](https://twitter.com/deeparocks/status/1550168023968796673?s=20)
 [Filecoin Foundation](https://twitter.com/FilFoundation)
 [Refi Podcast](https://twitter.com/ReFiPodcast/status/1582825215469682688?s=20)
-Our Twitter Frens for cheering us all along 🙏
+**Our Twitter Web3 community for cheering us all along** 🙏
