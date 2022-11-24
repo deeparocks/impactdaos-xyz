@@ -22,9 +22,9 @@ We interviewed Impact DAO founders and contributors who represent the ultimate s
 
 ### Research Methodology
 
-We undertook intensive, qualitative research of 12 mature Impact DAOs in 2022. Mature ImpactDAOs are those that have operated for more than 5 months and have traction as of June 1st, 2022. All of the ImpactDAOs in our research are still in operation to the date of this publication.
+We undertook intensive, qualitative research of 12 mature Impact DAOs in 2022. Mature Impact DAOs are those that have operated for more than 5 months and have traction as of June 1st, 2022. All of the Impact DAOs in our research are still in operation to the date of this publication.
 
-Initially, we identified these 12 mature Impact DAOs for the study by spending a month researching ImpactDAOs operating as of June 2022.
+Initially, we identified these 12 mature Impact DAOs for the study by spending a month researching Impact DAOs operating as of June 2022.
 
 #### Our Impact DAO Selection Process
 
