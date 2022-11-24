@@ -61,7 +61,7 @@ Yvonne, Accounts, Operations & Project Lead, USA 🇺🇸
 
 ### Project Director
 
-[Deepa](https://twitter.com/deeparocks) 🇨🇦
+[Deepa](https://twitter.com/deeparocks), Founder Impact DAO Media 
 
 ## Friends and Donors
 [Kevin Owocki](https://twitter.com/deeparocks/status/1532881910673747968?s=20) for the A+ team 
