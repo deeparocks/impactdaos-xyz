@@ -11,7 +11,7 @@ The Impact DAOs book is produced by a global team of collaborators on the intern
 Impact DAO Media is grateful to the following contributors and sponsors.
 
 
-### Book Publishing
+### Book Production
 
 [Matthew](https://twitter.com/Value_Strat), Writer & Editor in Chief, Korea 🇰🇷
 [Deepa](https://twitter.com/deeparocks), Writer, Editor & Online Publishing, Canada 🇨🇦
@@ -61,7 +61,7 @@ Yvonne, Accounts, Operations & Project Lead, USA 🇺🇸
 
 ### Project Director
 
-[Deepa](https://twitter.com/deeparocks), Founder Impact DAO Media 
+[Deepa](https://twitter.com/deeparocks), Founder, Impact DAO Media 
 
 ## Friends and Donors
 [Kevin Owocki](https://twitter.com/deeparocks/status/1532881910673747968?s=20) for the A+ team 
