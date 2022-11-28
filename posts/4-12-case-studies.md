@@ -214,12 +214,10 @@ While the open-source Proof of Humanity protocol was built by developers from Kl
 
 For a deeper understanding of Proof of Humanity and the DAO, please refer to the following conversations with POH builders.
 
-Releasing soon on [All About Impact DAOs Podcast](https://open.spotify.com/show/3Mpb4Kp19RU14XJVMTumhi)
 
 [Interview with Juanu, Developer, Kleros](https://open.spotify.com/episode/2Cmt2oAMsLxzlWDVRINdzV?si=04vTvQsMRC6gkG7ii72TXg)
+[Interview with Federico](https://open.spotify.com/episode/1qLNVuD5V5dJVK7r4kaHFQ?si=GVFchqbgQNu7Rjppd2CQzg), Founder Kleros
 Interview with Clement, CTO Kleros  
-Interview with Federico, Founder Kleros
-
 [POH presentation at DEVCON Bogota Oct 2022 by Santi, Democracy Earth](https://youtu.be/zZJz1gBNxLI)
 
 
