@@ -113,7 +113,7 @@ These are good questions. Here are some good answers:
 - **Limitless talent pool:** Work visas and immigration lines are not an issue. You can recruit from the world population and benefit from a deeper, more diverse pool of candidates.
 - **Decentralized Finance (DeFi):** An obvious point, but in their financial affairs, DAOs benefit from all the advantages of DeFi. Multinational teams can use the same currency without worrying about exchange fees.
 - **Non-discriminatory:** Members can be pseudonomous which means biases have less of a chance to operate.
-- \***\*Self-correcting:** If a DAO falls off-track, becomes hijacked or toxic, members easily vote with their feet, making destructive behaviors self-correcting by either forking into a new DAO, or in extreme cases meaning that bad DAOs lose all their members and/or shut down.
+- **Self-correcting:** If a DAO falls off-track, becomes hijacked or toxic, members easily vote with their feet, making destructive behaviors self-correcting by either forking into a new DAO, or in extreme cases meaning that bad DAOs lose all their members and/or shut down.
 
 Blockchain technology and smart contracts play a large role in lowering costs and increasing speed. From a cultural perspective it is possibly the ‘pre-motivated’ nature of DAO members - attracted by a common cause, and prepared to invest time in it - that gives DAOs their key advantage. In the regular world of work, not everyone loves their job, but in the DAO world, intrinsic motivation is a pre-requisite!
 
