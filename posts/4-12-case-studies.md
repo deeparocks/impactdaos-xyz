@@ -21,7 +21,7 @@ Interviewer(s): Deepa
 
 ## What is Human DAO
 
-Human DAO’s mission is to use crypto and web3 to improve lives. Founded by Christopher Chase in 2021, Human DAO evolved out of the play-to-earn surge that peaked in the [Philippines in 2020](https://www.youtube.com/watch?v=Yo-BrASMHU4).
+Human DAO’s mission is to use crypto and web3 to improve lives. Founded by Christopher Chase in 2021, Human DAO evolved out of the play-to-earn surge that peaked in the [Philippines in 2021](https://www.youtube.com/watch?v=Yo-BrASMHU4).
 
 A veteran of Web3, Christopher was drawn into the world of Play-to-Earn in 2021 via [Axie Infinity](https://axieinfinity.com/). For those who don’t know, Axie Infinity is a crypto-based game that has provided an actual livelihood for many in countries such as the Philippines (where some shops even accept the in-game tokens as a form of payment!).
 
