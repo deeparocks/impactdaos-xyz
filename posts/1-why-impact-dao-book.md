@@ -45,17 +45,22 @@ In addition to conducting intensive research on our target group, we formed an I
 
 ## How to read it
 
-**Chapter 1** begins the book with a basic overview of the DAO concept, where it comes from, and where it is heading.
+The book is a living document. There are currently seven chapters.
 
-**Chapter 2** digs deeper into ImpactDAOs, a subset of the broader DAOsphere, with the core purpose of bringing about a positive impact on people and the planet.
+1.  [What is a DAO? A Crash Course](https://impactdaos.xyz/posts/2-what-is-a-dao):  Details a clear definition on DAOs, how they differ from traditional organizations and the DAO landscape.
+    
+3.  [What is an Impact DAO](https://impactdaos.xyz/posts/3-what-is-impactdao): Defining Impact DAOs, advantages over nonprofits and why Impact DAOs are the future
+    
+4.  [Impact DAO Case Studies](https://impactdaos.xyz/posts/4-12-case-studies): Deep dive into 12 Impact DAOs part of our study. We showcase who they are, their impact and how they operate as a DAO.
+    
+5.  [Learnings & Analysis](https://impactdaos.xyz/posts/5-learnings-and-analysis): Twenty three top learnings, insights and emerging patterns from our research.
+    
+6.  [Impact DAOs and the Future](https://impactdaos.xyz/posts/6-daos-and-the-future): We portray the future on how Impact DAOs are defining the future of work and organizing for good.
+    
+7.  [Giving Thanks](https://impactdaos.xyz/posts/7-giving-thanks): The Impact DAOs book is produced by a global team of collaborators on the internet. This section lists the contributors and the various production teams engaged in the bookmaking.
+    
+8.  [DAO and Web3 Glossary](https://impactdaos.xyz/posts/8-dao-and-web3-glossary): Breakdown of key terms and concepts in DAOs and web3.
 
-**Chapter 3** covers the 12 ImpactDAOs that we studied, who they are and how they operate (how they “DAO.'')
-
-**Chapter 4** provides an overview of the learnings and emerging patterns across the 12 DAOs, based on our conversations with the 30 builders.
-
-**Chapter 5** contains a look ahead into the future of work and doing good.
-
-The Appendix has a web3 and DAO glossary that breaks down all common terms in this subculture. It also contains interview transcriptions and links to audio conversations published as podcasts.
 
 I hope you enjoy this book and are as inspired and excited to build the future as we are.
 
