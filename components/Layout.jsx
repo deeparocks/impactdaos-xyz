@@ -24,7 +24,7 @@ export const Layout = ({
       </Head>
 
       <div className="w-full px-2">
-        <div className="w-full md:w-5/12 mx-auto flex flex-wrap gap-2 items-center justify-between bg-green-500 p-3 px-6 rounded-b-xl">
+        <div className="w-full md:w-6/12 mx-auto flex flex-wrap gap-2 items-center justify-between bg-sky-500 p-3 px-6 rounded-b-xl shadow-md">
           <h1 className="text-2xl font-semibold text-white uppercase">
             <a href="/">Impact DAO Book</a>
           </h1>
@@ -48,7 +48,7 @@ export const Layout = ({
           </div>
         </div>
 
-        <div className="w-full md:w-5/12 mx-auto flex items-center justify-center mt-3">
+        <div className="w-full md:w-6/12 mx-auto flex items-center justify-center p-6 mt-2 bg-lime-100 rounded-xl">
           <div id="custom-substack-embed"></div>
         </div>
       </div>
@@ -57,7 +57,7 @@ export const Layout = ({
         {children}
       </main>
 
-      <footer className="border-t bg-green-500 text-white  text-center">
+      <footer className="border-t bg-sky-500 text-white  text-center">
         <div className="container mx-auto pt-10 pb-20 px-4 max-w-3xl">
           <div id="buzzsprout-large-player"></div>
           <p className="text-3xl mt-4">
@@ -79,15 +79,15 @@ export const Layout = ({
 
       <Script strategy="beforeInteractive">
         {`window.CustomSubstackWidget = {
-            substackUrl: "impactdaos.substack.com",
+            substackUrl: "cryptogood.substack.com",
             placeholder: "Enter your email",
             buttonText: "Subscribe",
             theme: "custom",
             colors: {
-                primary: "#FFEE59",
+                primary: "limegreen",
                 input: "#FFFFFD",
                 email: "#1D1D1D",
-                text: "#000000",
+                text: "#ffffff",
             }
             };`}
       </Script>

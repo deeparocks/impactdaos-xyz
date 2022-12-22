@@ -11,7 +11,7 @@ export default function Post({ post }) {
       image={post.image}
       >
         <div className="w-full md:w-6/12">
-         <article className="prose prose-zinc" 
+         <article className="prose md:prose-lg prose-zinc prose-headings:underline prose-h1:text-xl prose-h1:no-underline" 
          dangerouslySetInnerHTML={{__html: post.content}} />
         </div>
         <Nav post={post} />
