@@ -12,7 +12,7 @@ An Impact DAO is focused on creating positive externalities. In other words, its
 
 Impact DAOs offer a radically new way of organizing, fundraising and allocating resources for causes. They are a new operating framework for our digital lives.
 
-Powered by web3 technology (i.e. blockchain), smart contracts and decentralized apps, DAOs can achieve scale, impact and efficiency that is not possible with the prevailing traditional nonprofit model. Many have already demonstrated large-scale reach.
+Powered by web3 technology i.e. blockchain, smart contracts and decentralized apps, DAOs can achieve scale, impact and efficiency that is not possible with the prevailing traditional nonprofit model. Many have already demonstrated large-scale reach.
 
 https://twitter.com/deeparocks/status/1586045144100659200?s=20
 
