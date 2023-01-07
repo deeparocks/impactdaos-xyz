@@ -139,7 +139,7 @@ Like any DAO, Impact DAOs operate on the principles of decentralized power, coll
 - Internet native communities
 - Distributed teams
 - Decentralized governance
-- Sovereign individuals and entities
+- Bank account on the blockchain
 - Transparent
 
 ### Other features
@@ -154,6 +154,7 @@ Like any DAO, Impact DAOs operate on the principles of decentralized power, coll
 - Organized around work streams and pods
 - Contributors instead of employees
 - Self-driven, permission-less, entrepreneurial mindset
+- Sovereign individuals and entities
 
 ## Bullish on Impact DAOs
 
