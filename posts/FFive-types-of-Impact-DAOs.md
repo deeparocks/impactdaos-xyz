@@ -1,6 +1,6 @@
 ---
 Appendix: Impact DAOs List
-title: Impact DAOs List and Top Categories
+title: Five Types of Impact DAOs
 description: 
 ---
 
