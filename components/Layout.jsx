@@ -23,21 +23,18 @@ export const Layout = ({
         <meta property="og:image" content={image} />
       </Head>
 
-      <div className="w-full px-2">
-        <div className="w-full md:w-6/12 mx-auto flex flex-wrap gap-2 items-center justify-between bg-sky-500 p-3 px-6 rounded-b-xl shadow-md">
-          <h1 className="text-2xl font-semibold text-white uppercase">
+      <div className="w-full">
+        <div className="mx-auto flex flex-wrap gap-2 items-center justify-between border-b p-3 px-6">
+          <h1 className="text-xl font-semibold text-black">
             <a href="/">Impact DAO Book</a>
           </h1>
 
           <div className="flex gap-4">
             <a href="https://twitter.com/impactdaos" target="_blank">
-              <FaTwitter size={30} className="text-white" />
+              <FaTwitter size={30} className="text-blue-500" />
             </a>
-            <a
-              href="https://impactdaomedia.buzzsprout.com/share"
-              target="_blank"
-            >
-              <FaPodcast size={30} className="text-white" />
+            <a href="https://impactdaos.buzzsprout.com/" target="_blank">
+              <FaPodcast size={30} className="text-lime-500" />
             </a>
             <a
               href="https://cryptogood.substack.com/s/impact-daos-research"
@@ -48,7 +45,7 @@ export const Layout = ({
           </div>
         </div>
 
-        <div className="w-full md:w-6/12 mx-auto flex items-center justify-center p-6 mt-2 bg-lime-100 rounded-xl">
+        <div className="w-full md:w-6/12 mx-auto flex items-center justify-center p-2 mt-2">
           <div id="custom-substack-embed"></div>
         </div>
       </div>
@@ -84,7 +81,7 @@ export const Layout = ({
             buttonText: "Subscribe",
             theme: "custom",
             colors: {
-                primary: "limegreen",
+                primary: "#02badf",
                 input: "#FFFFFD",
                 email: "#1D1D1D",
                 text: "#ffffff",

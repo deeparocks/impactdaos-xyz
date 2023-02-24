@@ -1,14 +1,11 @@
 ---
-Appendix: Impact DAOs List
 title: Five Types of Impact DAOs
-description: 
+description: Enabler, Climate, DeSci and more
 ---
 
 ## Five Types of Impact DAOs
 
-
-If you are an Impact DAO haven't registered with us yet [fill out this 1-minute form.](https://docs.google.com/forms/d/e/1FAIpQLSfy5kyXh_HddBkWmXJt3XhQ454f5lCCGPc8LHeHyodmhVa7xg/viewform?usp=sf_link)
-----------
+> :warning: Are you an Impact DAO let us know [fill out this 1-minute form.](https://docs.google.com/forms/d/e/1FAIpQLSfy5kyXh_HddBkWmXJt3XhQ454f5lCCGPc8LHeHyodmhVa7xg/viewform?usp=sf_link)
 
 We reviewed the mission statement of over 70 Impact DAOs, and they fall into these 5 categories. Impact DAOs are [decentralized autonomous organizations](https://impactdaos.xyz/posts/2-what-is-a-dao) whose core purpose is to do good for people and the planet.
 
@@ -38,8 +35,6 @@ They are the newly emerging category of Impact DAOs formed around network states
 
 > A network state is a highly aligned online community with a capacity for collective action that crowdfunds territory around the world and eventually gains diplomatic recognition from pre-existing states. - [The Network State](https://thenetworkstate.com/), Balaji Srinivasan
 
-----------
+---
 
-List of Impact DAOs 
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shryfZA8PIWQZkFvk?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+[Click here for a list of Impact DAOs](https://airtable.com/shrTqLycfHyYr6ym6/tblVBrLEhRD0OKrPU)
