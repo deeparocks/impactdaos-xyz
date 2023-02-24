@@ -10,7 +10,7 @@ description:
 
 
 
-_If you are an Impact DAO not registered with us yet [fill out this 1-minute form.](https://docs.google.com/forms/d/e/1FAIpQLSfy5kyXh_HddBkWmXJt3XhQ454f5lCCGPc8LHeHyodmhVa7xg/viewform?usp=sf_link)
+If you are an Impact DAO not registered with us yet [fill out this 1-minute form.](https://docs.google.com/forms/d/e/1FAIpQLSfy5kyXh_HddBkWmXJt3XhQ454f5lCCGPc8LHeHyodmhVa7xg/viewform?usp=sf_link)
 ----------
 
 We reviewed the mission statement of over 70 Impact DAOs, and they fall into these 5 categories. Impact DAOs are [decentralized autonomous organizations](https://impactdaos.xyz/posts/2-what-is-a-dao) whose core purpose is to do good for people and the planet.
@@ -44,4 +44,5 @@ They are the newly emerging category of Impact DAOs formed around network states
 ----------
 
 List of Impact DAOs 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shryfZA8PIWQZkFvk?backgroundColor=gray" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shryfZA8PIWQZkFvk?backgroundColor=red" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
