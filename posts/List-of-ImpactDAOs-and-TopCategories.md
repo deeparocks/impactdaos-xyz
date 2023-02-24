@@ -4,13 +4,10 @@ title: Impact DAOs List and Top Categories
 description: 
 ---
 
-# 70 Impact DAOs and Top Categories
-
-## Impact DAOs and their area of focus
+## Five Types of Impact DAOs
 
 
-
-If you are an Impact DAO not registered with us yet [fill out this 1-minute form.](https://docs.google.com/forms/d/e/1FAIpQLSfy5kyXh_HddBkWmXJt3XhQ454f5lCCGPc8LHeHyodmhVa7xg/viewform?usp=sf_link)
+If you are an Impact DAO haven't registered with us yet [fill out this 1-minute form.](https://docs.google.com/forms/d/e/1FAIpQLSfy5kyXh_HddBkWmXJt3XhQ454f5lCCGPc8LHeHyodmhVa7xg/viewform?usp=sf_link)
 ----------
 
 We reviewed the mission statement of over 70 Impact DAOs, and they fall into these 5 categories. Impact DAOs are [decentralized autonomous organizations](https://impactdaos.xyz/posts/2-what-is-a-dao) whose core purpose is to do good for people and the planet.
