@@ -1,0 +1,35 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+
+interface Pages {
+  url: string;
+  order: number;
+  title: string;
+  description: string;
+}
+
+const pages = await Astro.glob<Pages>("./daos/*.md");
+---
+
+<Layout title="Impact DAO Case Studies">
+  <p class="mb-4">
+    The Impact DAOs case studies provides an overview of who they are, their
+    impact and how they DAO, with links to 1:1 interviews with the builders for
+    deeper insights into their DAO way of making an impact.
+  </p>
+
+  <div class="flex flex-col gap-4">
+    {
+      pages
+        .sort((a, b) => a.frontmatter.order - b.frontmatter.order)
+        .map((v) => (
+          <Card
+            href={v.url}
+            title={v.frontmatter.title}
+            body={v.frontmatter.description}
+          />
+        ))
+    }
+  </div>
+</Layout>

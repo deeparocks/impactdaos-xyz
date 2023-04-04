@@ -1,0 +1,41 @@
+---
+// import logoPNG from "/assets/logo.png";
+// import logoSVG from "/assets/logo.svg";
+
+const { activeNav } = Astro.props;
+---
+
+<header>
+  <nav class="flex py-3 md:py-6 mb-4 border-b">
+    <ul
+      class="mx-auto w-full md:w-6/12 gap-2 flex justify-between text-sm md:text-md font-semibold"
+    >
+      <li>
+        <a href="/" class="text-green-500">impactdaos.xyz</a>
+      </li>
+      <li>
+        <a href="/case-studies">Case Studies</a>
+      </li>
+      <li>
+        <a href="/daos">Impact DAOs</a>
+      </li>
+      <li>
+        <a href="https://impactdaos.buzzsprout.com/" target="_blank"
+          >Podcasts
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/impactdaos" target="_blank">Twitter</a>
+      </li>
+      <li>
+        <a href="https://cryptogood.substack.com" target="_blank">Blog</a>
+      </li>
+
+      <!-- <li>
+        <a href="/about" class={activeNav === "about" ? "active" : ""}>
+          About
+        </a>
+      </li> -->
+    </ul>
+  </nav>
+</header>

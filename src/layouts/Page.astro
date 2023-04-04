@@ -1,0 +1,26 @@
+---
+import { SITE } from "@config";
+// import Breadcrumbs from "@components/Breadcrumbs.astro";
+// import Footer from "@components/Footer.astro";
+import Layout from "./Layout.astro";
+export interface Props {
+  frontmatter: {
+    title: string;
+    description?: string;
+    hideTitle: boolean;
+  };
+}
+const { frontmatter } = Astro.props;
+---
+
+<Layout title={frontmatter.title} hideTitle={frontmatter.hideTitle}>
+  <!-- <Breadcrumbs /> -->
+  <main>
+    <section
+      class="prose prose-slate prose-lg prose-img:border-0 prose-a:underline p-0 m-0 mb-28"
+    >
+      <slot />
+    </section>
+  </main>
+  <!-- <Footer /> -->
+</Layout>

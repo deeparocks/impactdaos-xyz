@@ -1,0 +1,91 @@
+---
+import { Image } from "@astrojs/image/components";
+
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+import heroImage from "../../public/hero2.jpg";
+// import bookImage from "../../public/3dbook.jpeg";
+
+interface Pages {
+  url: string;
+  order: number;
+  title: string;
+  description: string;
+  wide?: boolean;
+  hideTitle: boolean;
+}
+
+const caseStudiesPage = {
+  url: "/case-studies",
+  frontmatter: {
+    order: 4,
+    title: "Impact DAO Case Studies",
+    description: "We profile 12 Impact DAOs and how they DAO",
+  },
+};
+
+const pages = await Astro.glob<Pages>("./*.md");
+---
+
+<Layout title="The Impact DAO Book">
+  <main>
+    <em class="text-lg"
+      >"The guide to everything Impact DAO, the future of organizing for good. A
+      book written by a DAO for those who want to build their own DAOs"</em
+    >
+    <div
+      class="w-full md:w-6/12 mx-auto flex items-center justify-center p-2 mt-2"
+    >
+      <div id="custom-substack-embed"></div>
+    </div>
+
+    <!-- <Image
+      src={bookImage}
+      format="webp"
+      alt="Impact DAO Book"
+      height={300}
+      class="py-2"
+    /> -->
+
+    <Image src={heroImage} format="webp" alt="A connected planet" />
+    <div class="flex flex-col gap-4 mb-4">
+      {
+        [...pages, caseStudiesPage]
+          .filter((v) => v.frontmatter.order)
+          .sort((a, b) => a.frontmatter.order - b.frontmatter.order)
+          .map((v) => (
+            <Card
+              href={v.url}
+              title={v.frontmatter.title}
+              body={v.frontmatter.description}
+            />
+          ))
+      }
+    </div>
+
+    <script src="https://substackapi.com/widget.js" strategy="lazyOnload"
+    ></script>
+
+    <script strategy="beforeInteractive">
+      {
+        `window.CustomSubstackWidget = {
+		substackUrl: "cryptogood.substack.com",
+		placeholder: "Enter your email",
+		buttonText: "Subscribe",
+		theme: "custom",
+		colors: {
+			primary: "#02badf",
+			input: "#FFFFFD",
+			email: "#1D1D1D",
+			text: "#ffffff",
+		}
+		};`;
+      }
+    </script>
+
+    <script
+      src="https://www.buzzsprout.com/2057401.js?container_id=buzzsprout-large-player&player=large"
+      strategy="afterInteractive"
+    ></script>
+  </main>
+</Layout>
