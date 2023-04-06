@@ -66,10 +66,14 @@ const socialImageURL = new URL(
   </head>
   <body class="mono">
     <div class="w-full">
-      <div class="fixed w-full bg-white">
+      <div class="w-full bg-white">
         <Header />
       </div>
-      <div class={`pt-24 mx-auto w-full ${wide ? "md:w-8/12" : "md:w-6/12"}`}>
+      <div
+        class={`pt-0 md:pt-24 mx-auto w-full px-2 ${
+          wide ? "md:w-8/12" : "md:w-6/12"
+        }`}
+      >
         {
           hideTitle ? null : (
             <h1 class="text-red-500 text-2xl tracking-wider font-medium mb-6">

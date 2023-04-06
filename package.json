@@ -13,6 +13,8 @@
     "@astrojs/image": "^0.16.3",
     "@astrojs/react": "^2.1.0",
     "@astrojs/tailwind": "^3.1.1",
+    "@remark-embedder/core": "^3.0.1",
+    "@remark-embedder/transformer-oembed": "^3.0.0",
     "astro": "^2.1.8",
     "tailwindcss": "^3.2.7"
   },
