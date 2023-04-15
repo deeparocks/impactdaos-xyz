@@ -33,6 +33,7 @@ const pages = await Astro.glob<Pages>("./*.md");
       >"The guide to everything Impact DAO, the future of organizing for good. A
       book written by a DAO for those who want to build their own DAOs"</em
     >
+
     <div
       class="w-full md:w-6/12 mx-auto flex items-center justify-center p-2 mt-2"
     >
@@ -62,30 +63,5 @@ const pages = await Astro.glob<Pages>("./*.md");
           ))
       }
     </div>
-
-    <script src="https://substackapi.com/widget.js" strategy="lazyOnload"
-    ></script>
-
-    <script strategy="beforeInteractive">
-      {
-        `window.CustomSubstackWidget = {
-		substackUrl: "cryptogood.substack.com",
-		placeholder: "Enter your email",
-		buttonText: "Subscribe",
-		theme: "custom",
-		colors: {
-			primary: "#02badf",
-			input: "#FFFFFD",
-			email: "#1D1D1D",
-			text: "#ffffff",
-		}
-		};`;
-      }
-    </script>
-
-    <script
-      src="https://www.buzzsprout.com/2057401.js?container_id=buzzsprout-large-player&player=large"
-      strategy="afterInteractive"
-    ></script>
   </main>
 </Layout>

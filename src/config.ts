@@ -8,8 +8,8 @@ export type Site = {
 
 export const SITE: Site = {
   website: "https://impactdaos.xyx",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "All about Impact DAOs",
   title: "Impact DAOs",
-  ogImage: "hero.jpg",
+  ogImage: "hero2.jpg",
   lightAndDarkMode: true,
 };
